@@ -33,5 +33,8 @@ A list of schools and researchers in computational neuroscience
 | Gentner, Timothy | [(Acoustic) We want to know how the brain represents behaviorally important, complex, natural stimuli](https://medschool.ucsd.edu/education/neurograd/faculty/Pages/timothy-gentner.aspx) | https://scholar.google.com/citations?hl=en&user=s9_46JoAAAAJ&view_op=list_works&sortby=pubdate |
 | Gilja, Vikash | [brain-machine interfaces](http://neuro.eng.ucsd.edu/people) | http://neuro.eng.ucsd.edu/publications |
 | Kleinfeld, David | [network and computational issues within nervous systems](https://medschool.ucsd.edu/education/neurograd/faculty/Pages/david-kleinfeld.aspx) | http://neurophysics.ucsd.edu/journal_articles.php |
-|  
+| Komiyama, Takaki | [neuronal ensembles in behaving animals, BCI, two-photon in vivo](https://medschool.ucsd.edu/education/neurograd/faculty/Pages/takaki-komiyama.aspx) | http://labs.biology.ucsd.edu/komiyama/html/publications.html |
+Kristan, William | [study vector calculations, coding/decoding, and control of gain](https://medschool.ucsd.edu/education/neurograd/faculty/Pages/william-klristan.aspx) | https://doi.org/10.3389/fnana.2018.00095, https://doi.org/10.1016/j.cub.2016.11.031, |
+| Mishra, Jyoti | [Neurotechnology engineering studies in humans to advance experimental diagnostics and therapeutics for neuropsychiatric disorders.](http://neatlabs.ucsd.edu/index.html) | https://scholar.google.com/citations?hl=en&user=ZUFLEBIAAAAJ&view_op=list_works&sortby=pubdate |
+| 
 # University of Washington, Seattle
