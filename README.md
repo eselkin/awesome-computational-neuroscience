@@ -1,14 +1,26 @@
 # awesome-computational-neuroscience
 A list of schools and researchers in computational neuroscience
+# Index
+<div id="toc">Table of Contents</div>
 
-# [University of California, Berkeley](https://redwood.berkeley.edu/people/)
+* U.S. West 
+    1. <a href="#ucberkeley">University of California, Berkeley</a>
+    2. <a href="#ucdavis">University of California, Davis</a>
+    3. <a href="#ucsd">University of California, San Diego</a>
+    4. University of Oregon
+    5. University of Washington
+* U.S. Central
+* U.S. East
+# U.S. West
+
+## <div id="ucberkeley">[University of California, Berkeley](https://redwood.berkeley.edu/people/) <a href="#toc"><sup>(^toc)</sup></a></div>
 | PI(Ph.D.s) | Research Areas | DOIs |
 |---|---|---|
 | Bouchard, Kristofer | [How distributed neural circuits give rise to coordinated behaviors and perception](https://redwood.berkeley.edu/people/kristofer-bouchard/) | https://doi.org/10.1109/EMBC.2017.8037645, https://doi.org/10.1152/jn.00296.2017, https://arxiv.org/abs/1505.00041 | 
 | DeWeese, Mike | [experimental and theoretical neuroscience](https://redwood.berkeley.edu/people/mike-deweese/) | |
 | Olshausen, Bruno | [Developing new theoretical frameworks and models of vision](https://redwood.berkeley.edu/people/bruno-olshausen/) | https://arxiv.org/abs/1806.08887, https://arxiv.org/abs/1611.09430,  |
 
-# [University of California, Davis](https://neuroscience.ucdavis.edu/computational)
+## <div id="ucdavis">[University of California, Davis](https://neuroscience.ucdavis.edu/computational) <a href="#toc"><sup>(^toc)</sup></a></div>
 | PI(Ph.D.s) | Research Areas | DOIs |
 |---|---|---|
 | Antzoulatos, Evangelos | [large-scale neural networks that implement cognitive functions](https://neuroscience.sf.ucdavis.edu/people/evangelos-antzoulatos) |  |
@@ -19,7 +31,7 @@ A list of schools and researchers in computational neuroscience
 | Nord, Alex | [(Brain Disease, Disorders), To that end, I perform both experimental work and computational analysis to reveal function of primary DNA sequence, epigenomic modifications, and chromatin structure](https://neuroscience.ucdavis.edu/people/alex-nord) | https://www.ncbi.nlm.nih.gov/myncbi/browse/collection/40143131/?sort=date&direction=descending |
 | W. Martin Ursey (Chair) | [Structure, Function and Development of Neural Circuits for Vision](https://neuroscience.ucdavis.edu/people/w-martin-usrey) | http://doi.org/10.1016/j.neuron.2016.02.038 |
 
-# [University of California San Diego](https://medschool.ucsd.edu/education/neurograd/computational/Pages/Faculty.aspx) and Salk Institute
+## <div id="ucsd">[University of California San Diego](https://medschool.ucsd.edu/education/neurograd/computational/Pages/Faculty.aspx) and Salk Institute <a href="#toc"><sup>(^toc)</sup></a></div>
 | PI(Ph.D.s) | Research Areas | DOIs |
 |---|---|---|
 | Abarbanel, Henry | [(physics) electrophysiological properties of neurons](https://medschool.ucsd.edu/education/neurograd/faculty/Pages/henry-abarbanel.aspx) | https://doi.org/10.1109/TBCAS.2017.2776198, https://doi.org/10.1038/srep32749 |
@@ -36,5 +48,9 @@ A list of schools and researchers in computational neuroscience
 | Komiyama, Takaki | [neuronal ensembles in behaving animals, BCI, two-photon in vivo](https://medschool.ucsd.edu/education/neurograd/faculty/Pages/takaki-komiyama.aspx) | http://labs.biology.ucsd.edu/komiyama/html/publications.html |
 Kristan, William | [study vector calculations, coding/decoding, and control of gain](https://medschool.ucsd.edu/education/neurograd/faculty/Pages/william-klristan.aspx) | https://doi.org/10.3389/fnana.2018.00095, https://doi.org/10.1016/j.cub.2016.11.031, |
 | Mishra, Jyoti | [Neurotechnology engineering studies in humans to advance experimental diagnostics and therapeutics for neuropsychiatric disorders.](http://neatlabs.ucsd.edu/index.html) | https://scholar.google.com/citations?hl=en&user=ZUFLEBIAAAAJ&view_op=list_works&sortby=pubdate |
-| 
-# University of Washington, Seattle
+| Mukamel, Eran A. | [(Epigenomics) Research in our lab uses computational modeling and analysis of large-scale data sets to understand complex biological networks, from the genome to brain circuits](https://medschool.ucsd.edu/education/neurograd/faculty/Pages/eran-mukamel.aspx)| https://brainome.ucsd.edu/publications.html |
+| Navlakha, Saket | [Algorithms in nature](http://www.algorithmsinnature.org/) | 
+
+## University of Oregon
+
+## University of Washington, Seattle
