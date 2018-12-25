@@ -27,6 +27,11 @@ A list of schools and researchers in computational neuroscience
 |Asahina, Kenta | [... employing ... CRISPR/Cas9 genome editing, manipulation of specific neural populations, 2-photon functional imaging, and machine vision-assisted behavioral analyses](https://medschool.ucsd.edu/education/neurograd/faculty/Pages/kenta-asahina.aspx) | https://doi.org/10.1101/sqb.2014.79.024984 |
 | Bazhenov, Maksim | [we apply a variety of methods – quantitative experimental techniques, sophisticated mathematical analysis and large-scale computer modeling – to a variety of problems to reveal common features](https://medschool.ucsd.edu/education/neurograd/faculty/Pages/Maksim-Bazhenov.aspx) | https://doi.org/10.1371/journal.pcbi.1005705, https://doi.org/10.1101/195552, https://arxiv.org/abs/1706.02451 |
 | Cauwenberghs, Gert | [VLSI microsystems for adaptive neural computation](https://medschool.ucsd.edu/education/neurograd/faculty/Pages/gert-cauwenberghs.aspx) | https://doi.org/10.1038/s41551-017-0038, https://doi.org/10.1109/TNNLS.2016.2572164 |
-
-
+| Chalasani, Sreekanth | [...interested in understanding how neural circuits sense and process information to generate behaviors](https://medschool.ucsd.edu/education/neurograd/faculty/Pages/sreekanth-chalasani.aspx) | https://doi.org/10.1038/s41467-018-03333-6, https://doi.org/10.1101/156109 |
+| Coleman, Todd | [Flexible bio-electronics, systems neuroscience, quantitative approaches to understand and augment brain function.](https://medschool.ucsd.edu/education/neurograd/faculty/Pages/todd-coleman.aspx) | http://coleman.ucsd.edu/publications |
+| de Sa, Virginia | [We study the computational properties of machine learning algorithms and also investigate what physiological recordings and the constraints and limitations of human performance tell us about how our brains learn](http://www.cogsci.ucsd.edu/~desa/) | http://www.cogsci.ucsd.edu/academicPubs/desa/Publications.html |
+| Gentner, Timothy | [(Acoustic) We want to know how the brain represents behaviorally important, complex, natural stimuli](https://medschool.ucsd.edu/education/neurograd/faculty/Pages/timothy-gentner.aspx) | https://scholar.google.com/citations?hl=en&user=s9_46JoAAAAJ&view_op=list_works&sortby=pubdate |
+| Gilja, Vikash | [brain-machine interfaces](http://neuro.eng.ucsd.edu/people) | http://neuro.eng.ucsd.edu/publications |
+| Kleinfeld, David | [network and computational issues within nervous systems](https://medschool.ucsd.edu/education/neurograd/faculty/Pages/david-kleinfeld.aspx) | http://neurophysics.ucsd.edu/journal_articles.php |
+|  
 # University of Washington, Seattle
