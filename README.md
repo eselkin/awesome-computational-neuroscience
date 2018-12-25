@@ -7,12 +7,12 @@ A list of schools and researchers in computational neuroscience
     1. <a href="#ucberkeley">University of California, Berkeley</a>
     2. <a href="#ucdavis">University of California, Davis</a>
     3. <a href="#ucsd">University of California, San Diego</a>
-    4. University of Oregon
-    5. University of Washington
+    4. <a href="#uofo">University of Oregon</a>
+    5. <a href="#uw">University of Washington</a>
 * U.S. Central
 * U.S. East
-# U.S. West
 
+# U.S. West
 ## <div id="ucberkeley">[University of California, Berkeley](https://redwood.berkeley.edu/people/) <a href="#toc"><sup>(^toc)</sup></a></div>
 | PI(Ph.D.s) | Research Areas | DOIs |
 |---|---|---|
@@ -49,8 +49,34 @@ A list of schools and researchers in computational neuroscience
 Kristan, William | [study vector calculations, coding/decoding, and control of gain](https://medschool.ucsd.edu/education/neurograd/faculty/Pages/william-klristan.aspx) | https://doi.org/10.3389/fnana.2018.00095, https://doi.org/10.1016/j.cub.2016.11.031, |
 | Mishra, Jyoti | [Neurotechnology engineering studies in humans to advance experimental diagnostics and therapeutics for neuropsychiatric disorders.](http://neatlabs.ucsd.edu/index.html) | https://scholar.google.com/citations?hl=en&user=ZUFLEBIAAAAJ&view_op=list_works&sortby=pubdate |
 | Mukamel, Eran A. | [(Epigenomics) Research in our lab uses computational modeling and analysis of large-scale data sets to understand complex biological networks, from the genome to brain circuits](https://medschool.ucsd.edu/education/neurograd/faculty/Pages/eran-mukamel.aspx)| https://brainome.ucsd.edu/publications.html |
-| Navlakha, Saket | [Algorithms in nature](http://www.algorithmsinnature.org/) | 
-
-## University of Oregon
+| Navlakha, Saket | [Algorithms in nature](http://www.algorithmsinnature.org/) | http://www.snl.salk.edu/~navlakha/ |
+|Reinagel, Pamela | [computational models to explain reward-motivated choice behavior](https://medschool.ucsd.edu/education/neurograd/faculty/Pages/pamela-reinagel.aspx) | http://www.ratrix.org/Publications.html |
+| <div style="background-color: yellow;">Sejnowski, Terrence</div> | [(One of the founders of Deep Learning)... To uncover linking principles from brain to behavior using computational models...New techniques have been developed for modeling cell signaling using Monte Carlo methods (MCell)...new methods for analyzing sources for electrical and magnetic signals... from functional brain imaging by blind separation using independent components analysis (ICA)](https://medschool.ucsd.edu/education/neurograd/faculty/Pages/terrence-sejnowski.aspx) | http://papers.cnl.salk.edu/index.php?SearchText=Type=Article |
+| Serences, John | [To investigate the influence of behavioral goals and previous experiences on perception and cognition, we employ a combination of psychophysics, computational modeling, and neuroimaging techniques](https://medschool.ucsd.edu/education/neurograd/faculty/Pages/john-serences.aspx)| https://scholar.google.com/citations?hl=en&user=mSaemJkAAAAJ&view_op=list_works&sortby=pubdate |
+| Sharpee, Tatyana | [Our approaches are often derived from methods in statistical physics, mathematics, and information theory](https://medschool.ucsd.edu/education/neurograd/faculty/Pages/tatyana-sharpee.aspx) | http://papers.cnl-t.salk.edu/index.php?SearchText=Type=Article |
+| Silva, Gabriel | [(Ophthlmology) In particular, we are interested in the mechanisms that underlie signal and information propagation in biological cellular neural networks, and the computational potential of such networks in the brain] | http://www.silva.ucsd.edu/publications |
+| Stevens, Charles F. | [ mechanisms responsible for synaptic transmission](https://medschool.ucsd.edu/education/neurograd/faculty/Pages/charles-stevens.aspx) | https://scholar.google.com/scholar?as_ylo=2017&q=Charles+stevens+salk&hl=en&as_sdt=0,5 |
+| Störmer, Viola | [...Cognitive and neural mechanisms of human perception, selective attention, and multisensory processing...to understand the computations and processes involved to process these diverse inputs, it is important to consider the full breadth of incoming information](https://medschool.ucsd.edu/education/neurograd/faculty/Pages/viola-stormer.aspx) | http://stoermerlab.ucsd.edu/publications |
+| Voytek, Bradley | [focused on combining large scale data-mining and machine-learning techniques with hypothesis-driven experimental research to understand the relationships between the human frontal lobes, cognition, and disease](https://medschool.ucsd.edu/education/neurograd/faculty/Pages/bradley-voytek.aspx) | https://voyteklab.com/publications/ |
+| Yeo, Gene | [leader in developing the molecular and cellular resources and robust technologies required for truly large-scale studies of hundreds of RNA binding proteins and their RNA targets](https://medschool.ucsd.edu/education/neurograd/faculty/Pages/gene-yeo.aspx) | http://yeolab.github.io/papers/ |
+|Yu, Angela J. | [Computational modeling and psychophysics of attention, learning, and decision-making](https://medschool.ucsd.edu/education/neurograd/faculty/Pages/angela-yu.aspx) | http://www.cogsci.ucsd.edu/~ajyu/ |
+## <div id="uofo">[University of Oregon](http://ion.uoregon.edu/content/cognitive-computational-and-systems-neuroscience-training-program) <a href="#toc"><sup>(^toc)</sup></a></div>
+| PI(Ph.D.s) | Research Areas | DOIs | +/=/- (likely related to more computational methods) |
+|---|---|---|---|
+|Ahmadian, Yashar | [(Theoretical Neuroscience)...understanding how large networks of neurons...process sensory inputs and give rise to higher-level cognitive functions through their collective dynamics on multiple time scales](http://ion.uoregon.edu/content/yashar-ahmadian)| https://scholar.google.com/citations?hl=en&user=ZDaThWgAAAAJ&view_op=list_works&sortby=pubdate | + |
+| Doe, Chris | [Assembly and function of neural circuits driving larval locomotion in Drosophila...  interested in (1) temporal identity programs used to generate an ordered series of neural progeny from a single progenitor, (2) how spatial patterning and temporal identity are integrated to generate heritable neuronal identity, (3) how neuronal progenitors change competence to respond to intrinsic and extrinsic cues over time, and (4) the developmental mechanisms driving neural circuit assembly, with a focus on larval locomotor circuits and adult central complex circuits.](http://ion.uoregon.edu/content/chris-doe-0) | http://www.doelab.org/recent-pubs.html | + |
+| Huxtable, Adrianne | [neural control of breathing (the central brainstem and spinal cord networks), with a specific focus on how inflammation ... undermines breathing](http://ion.uoregon.edu/content/adrianne-huxtable)| https://huxtable.uoregon.edu/publications/ |  = |
+| Lockery, Shawn | [nervous system controls behavior by analyzing the neural networks for decision making, focusing on spatial exploration behaviors, and food choice involving trade-offs that mimic human economic decisions](http://ion.uoregon.edu/content/shawn-lockery) | https://scholar.google.com/citations?hl=en&user=x4paaz0AAAAJ&view_op=list_works&sortby=pubdate | + |
+| Mazzucato, Luca | [Computational models of cortical network function.](https://www.mazzulab.com) | https://www.mazzulab.com/publications.html | + |
+| Miller, Adam C. | [Neural circuit wiring, synapse formation, and electrical synaptogenesis in zebrafish](http://ion.uoregon.edu/content/adam-miller) | http://millerlab.brainbuild.org/publications | + |
+| Niell, Cris | [Function and development of neural circuits for visual processing](http://ion.uoregon.edu/content/cris-niell) | 
+| Smear, Matt | [will pursue general principles of how neural circuits generate behavior](http://ion.uoregon.edu/content/matt-smear) |  https://scholar.google.com/citations?user=nU455D0AAAAJ&hl=en | + |
+| Swann, Nicki | [(Parkinson's)... goal of her research is characterize neural signatures of disease to better understand pathophysiology and improve treatments](http://ion.uoregon.edu/content/nicki-swann) | https://swannlab.uoregon.edu/publications/ | + |
+| Sylwestrak, Emily | [understand how heterogeneous, molecularly-defined neuronal populations work together to drive behavior](http://ion.uoregon.edu/content/emily-sylwestrak) | https://www.sylwestraklab.com/papers | = |
+| Washbourne, Philip | [Molecular mechanisms of synapse formation](http://ion.uoregon.edu/content/philip-washbourne) | https://blogs.uoregon.edu/washbournelab/publications/ | = |
+| Wehr, Michael | [How local circuits in the auditory cortex encode and transform sensory information](http://ion.uoregon.edu/content/michael-wehr) | http://uoneuro.uoregon.edu/wehr/publications.html | + |
 
 ## University of Washington, Seattle
+
+# U.S. Central
+## [University of Illinois](https://neuroscience.illinois.edu/research/research-overview/computational-neuroscience)
