@@ -5,14 +5,16 @@
 4. Abuses of anything are not tolerated.
 
 ## Contributing a new school
-While most schools do not have a computational neuroscience or theoretical neuroscience department or Ph.D. program, we would like to solely accept schools that have at least a graduate specialization/training program in these areas.
+While most schools do not have a computational neuroscience or theoretical neuroscience department or Ph.D. program, we would like to solely accept schools that have at least a graduate specialization/training program in these areas. Any school, in the U.S.A. or elsewhere is welcome as long as it meets this criterion.
 
 1. Each school is preceded by a ## followed by the name of the school. The name of the school should be a hyperlink to the faculty page or the application to graduate education page for the program in computational neuroscience.
 2. A `<div id="unique_school_name">` tag should be surrounding the name of the school with an id attribute that is specific to that school.
 3. Make a list element in the table of contents with a link to the section of the Readme for that school: `<a href="#unique_school_name>School name</a>`
 4. Immediately following the ## section name for the school a list element should be included for all ways to apply to graduate programs at that school and particularly how to enter the computational neuroscience program. Include relevant things such as GRE institution and department IDs (usually found on the application page for the program). If there is a minimum GRE requirement or a GRE subject test requirement, please list them.  
-5. Each school faculty list should begin with the header column: ``` | PI(Ph.D.s) | Research Areas | DOIs | +/=/- (likely related to more computational methods) |``` followed on the next line by the vertical row separator: ```
-|---|---|---|---|```
+5. Each school faculty list should begin with the header column: 
+* ``` | PI(Ph.D.s) | Research Areas | DOIs | +/=/- (likely related to more computational methods) |``` 
+followed on the next line by the vertical row separator: 
+* ```|---|---|---|---|```
 6. <a href="#add_to_school">Adding faculty to a school</a>
 
 ## <div id="add_to_school">Contributing to a school</div>
