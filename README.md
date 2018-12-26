@@ -1,9 +1,8 @@
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 # awesome-computational-neuroscience
 
-/play letitgo
-
-To contribute, see [:pencil2: code of contribution](https://github.com/eselkin/awesome-computational-neuroscience/blob/master/contributing.md)
+<sub>To contribute, see [:pencil2: code of contribution](https://github.com/eselkin/awesome-computational-neuroscience/blob/master/contributing.md)
+</sub>
 
 A list of schools and researchers in computational neuroscience
 # Index
