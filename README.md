@@ -1,19 +1,63 @@
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 # awesome-computational-neuroscience
+
 A list of schools and researchers in computational neuroscience
 # Index
 <div id="toc">Table of Contents</div>
 
 * U.S. West 
-    1. <a href="#ucberkeley">University of California, Berkeley</a>
-    2. <a href="#ucdavis">University of California, Davis</a>
-    3. <a href="#ucsd">University of California, San Diego</a>
-    4. <a href="#uofo">University of Oregon</a>
-    5. <a href="#uw">University of Washington</a>
+    1. <a href="#stanford">Stanford</a>
+    2. <a href="#ucberkeley">University of California, Berkeley</a>
+    3. <a href="#ucdavis">University of California, Davis</a>
+    4. <a href="#ucsd">University of California, San Diego</a>
+    5. <a href="#uofo">University of Oregon</a>
+    6. <a href="#uw">University of Washington</a>
 * U.S. Central
+    1. <a href="#illinois">University of Illinois</a>
 * U.S. East
 
 # U.S. West
+## <div id="stanford">[Stanford](https://neuroscience.stanford.edu/mbct/home) <a href="#toc"><sup>(^toc)</sup></a></div>
+Apply: 
+*
+
+| PI(Ph.D.s) | Research Areas | DOIs | +/=/- (likely related to more computational methods) |
+|---|---|---|---|
+| Airan, Raag | [precisely deliver drugs to the brain, to mediate more precise control of neural activity, in addition to other therapeutic effects](http://airan-lab.stanford.edu/) | http://airan-lab.stanford.edu/publications/ | = |
+| Baccus, Stephen A. | [(Brain-Machine Interfaces,Neuro-circuit interventional research consortium for understanding the brain and improving treatment) We study how the circuitry of the retina translates the visual scene into electrical impulses in the optic nerve...experimental data is used to create mathematical models to predict and explain the output of the retinal circuit.](https://baccuslab.sites.stanford.edu/) | https://scholar.google.com/scholar?as_ylo=2017&q=baccus+stephen+a&hl=en&as_sdt=0,5 | + |
+| Chichilnisky, E.J. | [The goal of our research is to understand how the neural circuitry of the retina encodes visual information, and to use this knowledge in the development of artificial retinas for treating incurable blindness](http://med.stanford.edu/neurosurgery/research/chichilnisky.html) | http://med.stanford.edu/neurosurgery/research/chichilnisky/publications.html | + |
+| Clandinin, Thomas | [My lab seeks to understand how the brain computes at the cellular and molecular level](https://flyvisionlab.weebly.com/) | https://flyvisionlab.weebly.com/publications.html | + |
+| Druckmann, Shaul | [We seek to relate circuit dynamics to computation by understanding the unique computational style used by the brain](https://www.druckmannlab.com/) | https://www.druckmannlab.com/publications.html | + |
+| Etkin, Amit | [we collaborate with neuroscientists, engineers, psychologists, physicians and others to establish a new intellectual, scientific and clinical paradigm for understanding and manipulating human brain circuits in healthy individuals and for treating psychiatric disease](http://www.etkinlab.stanford.edu/research-1) | http://www.etkinlab.stanford.edu/publications | + |
+| Ganguli, Surya | [we exploit and extend tools and ideas from a diverse array of disciplines, including statistical mechanics, dynamical systems theory, machine learning, information theory, control theory, and high-dimensional statistics, as well as collaborate with experimental neuroscience laboratories collecting physiological data from a range of model organisms, from flies to humans](http://ganguli-gang.stanford.edu/index.html) | http://ganguli-gang.stanford.edu/pubs.html | + |
+| Gardner, Justin | [Using knowledge of the visual system and decision theoretical models of how behavior is linked to cortical activity, we seek to understand the cortical computations that construct human vision](http://gru.stanford.edu/doku.php/shared/research) | http://gru.stanford.edu/doku.php/shared/publications | + |
+| Ghajar, Jashmid MD, FACS | [improve the diagnosis and treatment of TBI. To do this, we lead the way in cutting-edge clinical research spanning the spectrum from concussion to coma](https://www.braintrauma.org/research) | https://www.braintrauma.org/pages/publications | = |
+| Giocomo, Lisa | [Giocomo Lab integrates electrophysiology, behavior, imaging, gene manipulations, optogenetics and computational modeling to study how single-cell biophysics and network dynamics interact to mediate spatial memory and navigation](https://giocomolab.weebly.com/) | https://giocomolab.weebly.com/publications.html | + |
+| Grill-Spector, Kalanit | [Our research utilizes functional imaging (fMRI), computational techniques, and behavioral methods to investigate visual recognition and other high-level visual processes](http://vpnl.stanford.edu/) | http://vpnl.stanford.edu/publications.htm | + |
+| Gross, James | [(Psychology) The goal of this project is to create a computational model that will help us understand the unfolding of emotions at the group level (collective emotion) and to correlate this model with real life events](https://spl.stanford.edu/projects-0) | https://spl.stanford.edu/selected-publications | + |
+| Holmes, Susan | [We use computational statistics, multitable and nonparametric methods such as the bootstrap and MCMC computation of complex posterior distributions to draw inferences about complex biological phenomena](http://statweb.stanford.edu/~susan/LabIndex.html) | http://statweb.stanford.edu/~susan/papers.html | + |
+| Huguenard, John | [Our approach is an analysis of the discrete components that make up thalamic and cortical circuits, and reconstitution of components into both in vitro biological and in silico computational networks](https://huguenard-lab.stanford.edu/wp1/) | https://huguenard-lab.stanford.edu/wp1/publications/ | + |
+| Knutson, Brian | [(NeuroChoice), Neural circuit dynamics of drug action](http://stanford.edu/group/spanlab/Projects/projects.html)| http://stanford.edu/group/spanlab/Publications/publications.html | + | 
+| Lee, Jin Hyung | [The Lee Lab uses interdisciplinary approaches from biology and engineering to analyze, debug, and manipulate systems-level brain circuits](https://neuroscience.stanford.edu/people/jin-hyung-lee) | https://profiles.stanford.edu/jin-hyung-lee?tab=publications | + |
+| Luo, Liqun | [Organization and function of neural circuits in the mouse and Developing genetic tools to probe neural circuit assembly and organization](http://web.stanford.edu/group/luolab/Research.shtml) | http://web.stanford.edu/group/luolab/Publications.shtml | + |
+| McClelland, Jay | [...the primary current focus is on mathematical cognition from Parallel and Distributed Processing site](https://stanford.edu/~jlmcc/) | https://stanford.edu/~jlmcc/papers/ | + |
+| Newsome, William | [Computer modelling techniques are then used to develop more refined hypotheses concerning the relationship of brain to behavior that are both rigorous and testable. This combination of behavioral, electrophysiological and computational techniques provides a realistic basis for neurophysiological investigation of cognitive functions such as perception, memory and motor planning](http://monkeybiz.stanford.edu/index.html) | http://monkeybiz.stanford.edu/pubs.html | + |
+| Norcia, Anthony | [Brain mechanisms underlying face and text processing...methods for exploiting the temporal resolution of the EEG to study the dynamics of brain processing...](https://svndl.stanford.edu/research)| https://svndl.stanford.edu/research/publications | = |
+| Poldrack, Russell | [Our lab uses the tools of cognitive neuroscience to understand how decision making, executive control, and learning and memory are implemented in the human brain. We also develop neuroinformatics tools and resources to help researchers make better sense of data.](https://poldracklab.stanford.edu/) | https://scholar.google.com/citations?user=RbmLvDIAAAAJ&hl=en | + |
+| Raymond, Jennifer L. | [The goal of our research is to understand the algorithms the brain uses to learn](http://raymondlab.weebly.com/) | http://raymondlab.weebly.com/publications.html | + |
+| Schnitzer, Mark J. | [Development of high-throughput, massively parallel imaging techniques for studying brain function in large numbers of Drosophila concurrently](http://pyramidal.stanford.edu/) | http://pyramidal.stanford.edu/publications.html | + |
+| Shenoy, Krishna | [(BMIs), conducts neuroscience, neuroengineering and translational research to better understand how the brain controls movement, and to design medical systems to assist people with paralysis](https://shenoy.people.stanford.edu/overview) | https://shenoy.people.stanford.edu/journal-papers | + |
+| Soltesz, Ivan | [We are interested in how brain cells communicate with each other in the normal brain, and how the communication changes in epilepsy ...  highly realistic large-scale supercomputational modeling approaches](http://med.stanford.edu/ivansolteszlab/front-page.html) | http://med.stanford.edu/ivansolteszlab/front-page.html#publications | + |
+| Wagner, Anthony D | [Current research directions – which combine behavior, brain imaging, virtual reality, and computational approaches](https://memorylab.stanford.edu/) | https://memorylab.stanford.edu/publications/2010-current | + |
+| Williams, Leanne | [...Biomedical data sciences and informatics are also essential, not only because of the amount of data we generate, but also because we rely on increasingly sophisticated computational models to understand such complex phenomena as the brain and depression](http://williamspanlab.com/) | http://williamspanlab.com/publications | = |
+| Yamins, Daniel | [Our research lies at intersection of neuroscience, artificial intelligence,  psychology and large-scale data analysis.    We seek to "reverse engineer" the algorithms of the brain, both to learn  about how our minds work and to build more effective artificial intelligence systems](http://neuroailab.stanford.edu/) | http://neuroailab.stanford.edu/publications.html | + |
+
 ## <div id="ucberkeley">[University of California, Berkeley](https://redwood.berkeley.edu/people/) <a href="#toc"><sup>(^toc)</sup></a></div>
+Apply: 
+* [Neuroscience Ph.D., GRE: Institution: 4833, Department: 0213](http://neuroscience.berkeley.edu/ph-d-program/)
+* [Vision Science Ph.D., Apply, GRE: Institution: 4833, Department: 0611]( https://vision.berkeley.edu/admissions)
+* [Electrical Engineering and Computer Sciences, Ph.D., GRE: Institution(4833), Department(Not required) ](https://eecs.berkeley.edu/academics/graduate/research-programs/admissions)
+
 | PI(Ph.D.s) | Research Areas | DOIs |
 |---|---|---|
 | Bouchard, Kristofer | [How distributed neural circuits give rise to coordinated behaviors and perception](https://redwood.berkeley.edu/people/kristofer-bouchard/) | https://doi.org/10.1109/EMBC.2017.8037645, https://doi.org/10.1152/jn.00296.2017, https://arxiv.org/abs/1505.00041 | 
@@ -21,6 +65,9 @@ A list of schools and researchers in computational neuroscience
 | Olshausen, Bruno | [Developing new theoretical frameworks and models of vision](https://redwood.berkeley.edu/people/bruno-olshausen/) | https://arxiv.org/abs/1806.08887, https://arxiv.org/abs/1611.09430,  |
 
 ## <div id="ucdavis">[University of California, Davis](https://neuroscience.ucdavis.edu/computational) <a href="#toc"><sup>(^toc)</sup></a></div>
+Apply: 
+* [Neuroscience, GRE: Institution(4834), Dept(None specified), GRE Subject test encouraged (...)](https://grad.neuroscience.ucdavis.edu/apply)
+
 | PI(Ph.D.s) | Research Areas | DOIs |
 |---|---|---|
 | Antzoulatos, Evangelos | [large-scale neural networks that implement cognitive functions](https://neuroscience.sf.ucdavis.edu/people/evangelos-antzoulatos) |  |
