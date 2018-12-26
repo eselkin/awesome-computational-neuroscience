@@ -11,7 +11,8 @@ A list of schools and researchers in computational neuroscience
     3. <a href="#ucdavis">University of California, Davis</a>
     4. <a href="#ucsd">University of California, San Diego</a>
     5. <a href="#uofo">University of Oregon</a>
-    6. <a href="#uw">University of Washington</a>
+    6. <a href="#uoft">University of Texas, Austin</a>
+    7. <a href="#uw">University of Washington</a>
 * U.S. Central
     1. <a href="#illinois">University of Illinois</a>
 * U.S. East
@@ -19,7 +20,7 @@ A list of schools and researchers in computational neuroscience
 # U.S. West
 ## <div id="stanford">[Stanford](https://neuroscience.stanford.edu/mbct/home) <a href="#toc"><sup>(^toc)</sup></a></div>
 Apply: 
-*
+* [Neurosciences Ph.d., GREs no longer used.](https://med.stanford.edu/neurogradprogram/prospective_students.html)
 
 | PI(Ph.D.s) | Research Areas | DOIs | +/=/- (likely related to more computational methods) |
 |---|---|---|---|
@@ -79,6 +80,8 @@ Apply:
 | W. Martin Ursey (Chair) | [Structure, Function and Development of Neural Circuits for Vision](https://neuroscience.ucdavis.edu/people/w-martin-usrey) | http://doi.org/10.1016/j.neuron.2016.02.038 |
 
 ## <div id="ucsd">[University of California San Diego](https://medschool.ucsd.edu/education/neurograd/computational/Pages/Faculty.aspx) and Salk Institute <a href="#toc"><sup>(^toc)</sup></a></div>
+* [Neurograd program, GRE: Institution(4836) Department(0213), Specify interest in Computational Neuroscience specialization](https://medschool.ucsd.edu/education/neurograd/prospective-students/Pages/default.aspx)
+
 | PI(Ph.D.s) | Research Areas | DOIs |
 |---|---|---|
 | Abarbanel, Henry | [(physics) electrophysiological properties of neurons](https://medschool.ucsd.edu/education/neurograd/faculty/Pages/henry-abarbanel.aspx) | https://doi.org/10.1109/TBCAS.2017.2776198, https://doi.org/10.1038/srep32749 |
@@ -123,7 +126,38 @@ Kristan, William | [study vector calculations, coding/decoding, and control of g
 | Washbourne, Philip | [Molecular mechanisms of synapse formation](http://ion.uoregon.edu/content/philip-washbourne) | https://blogs.uoregon.edu/washbournelab/publications/ | = |
 | Wehr, Michael | [How local circuits in the auditory cortex encode and transform sensory information](http://ion.uoregon.edu/content/michael-wehr) | http://uoneuro.uoregon.edu/wehr/publications.html | + |
 
-## University of Washington, Seattle
+## <div id="uoft">[University of Texas, Austin](http://ctcn.utexas.edu/people/) <a href="#toc"><sup>(^toc)</sup></a></div>
+* [Apply through: GRE: Institutional(6882), Mathematics (GRE: self report on application), Computer Science (No minimum, but high quant), Physics, ECE, Neuroscience, Psychology... ](http://ctcn.utexas.edu/apply-students/)
+
+| PI(Ph.D.s) | Research Areas | DOIs | +/=/- (likely related to more computational methods) |
+|---|---|---|---|
+| Goris, Robbe | [He uses behavioral experiments, computational theory, and monkey electrophysiology to study representation and computation in the primate visual system](http://ctcn.utexas.edu/member/robbe-goris/) | http://ctcn.utexas.edu/publications/ | + |
+| Fiete, Ila | [uses computational and theoretical approaches to understand the nature of distributed coding, error correction, and dynamical mechanisms that underlie representation and computation in the brain](http://ctcn.utexas.edu/member/ila-fiete/) | http://clm.utexas.edu/fietelab/publications.html | + |
+| Taillefumier, Thibaud | [We develop novel analytical and algorithmic tools to address questions at the interface of Systems Neuroscience and Applied Mathematics](https://mathneuro.cns.utexas.edu/research) | https://mathneuro.cns.utexas.edu/publications | + |
+| Huth, Alex | [Our lab uses quantitative, computational methods to try to understand how the human brain processes the natural world. In particular, we are focused on understanding how the meaning of language is represented in the brain](https://www.cs.utexas.edu/~huth/) | https://www.cs.utexas.edu/~huth/publications.html | + |
+| Tran, Ngoc Mai | [probabilistic and combinatorial questions arising from tropical geometry and neuroscience](http://ctcn.utexas.edu/member/ngoc-mai-tran/) | https://web.ma.utexas.edu/users/ntran/pub.html | + |
+| Geisler, Bill | [research combines behavioral studies, neurophysiological studies, studies of natural stimuli, and mathematical analysis](http://ctcn.utexas.edu/member/bill-geisler/) | https://liberalarts.utexas.edu/cps/faculty/wsg8#publications | + |
+| Soloveichik, David | [(molecular programming), theoretical connections between distributed computing and molecular information processing. David is also interested in understanding how neural networks can execute distributed computing algorithms](http://ctcn.utexas.edu/member/david-soloveichik/) | https://scholar.google.com/citations?hl=en&user=dSPQHDoAAAAJ&view_op=list_works&sortby=pubdate | + |
+## <div id="uw">[University of Washington, Seattle](http://compneuro.washington.edu/wordpress/training-programs/graduate-training-program/) <a href="#toc"><sup>(^toc)</sup></a></div> 
+* [Apply through: GRE: Institutional(6882), Mathematics (GRE: self report on application), Computer Science (No minimum, but high quant), Physics, ECE, Neuroscience, Psychology... ](http://ctcn.utexas.edu/apply-students/)
+
+| PI(Ph.D.s) | Research Areas | DOIs | +/=/- (likely related to more computational methods) |
+|---|---|---|---|
+| Bair, Wyeth | [understand neural circuitry and neural coding in the cerebral cortex with a major emphasis on the primate visual system. We approach this problem by recording directly from neurons in the functioning brain in vivo and by creating and refining large scale spiking neural network models that run on parallel computers](http://depts.washington.edu/neurogrd/people/faculty/wyeth-bair/) | https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&as_ylo=2017&q=W+bair+washington&btnG= | + |
+| Brunton, Bing | [Data-driven dynamic models of large-scale neural data; Neural computations underlying long-term, naturalistic behavior; Efficient algorithms for closed-loop neuroengineering; Sparse sensors for biological and engineered systems](https://www.bingbrunton.com/research) | https://scholar.google.com/citations?user=UftAYPkAAAAJ&hl=en | + |
+| Buice, Michael | [ identifying and understanding the mechanisms and principles that the nervous system uses to perform the inferences which allow us to perceive the world. I am particularly interested in neural implementations of Bayesian inference and mechanisms by which prior knowledge is encoded as well as the implications that coding efficiency has on the structure of neural circuits](https://alleninstitute.org/what-we-do/brain-science/about/team/staff-profiles/michael-buice/) | https://www.ncbi.nlm.nih.gov/pubmed/?term=Buice+Michael[Author] | + |
+| Chizeck, Howard Jay | [(telerobotics and neural engineering). His telerobotic research includes haptic navigation and control for robotic surgery and for underwater devices, as well as security of telerobotic systems. His neural engineering work involves the design and security of brain-machine interfaces, and the development of assistive devices to restore hand and locomotion capabilities](https://www.ece.uw.edu/people/howard-jay-chizeck/) | http://brl.ee.washington.edu/eprints/ | + |
+| Koch, Christof | [biophysical mechanisms underlying neural computation, understanding the mechanisms and purpose of visual attention, and uncovering the neural basis of consciousness and the subjective mind](https://alleninstitute.org/what-we-do/brain-science/about/team/staff-profiles/christof-koch/) | https://scholar.google.com/citations?user=JYt9T_sAAAAJ&hl=en | + |
+| Fairhall, Adrienne | [ theoretical approaches to understand processing in nervous systems. We collaborate closely with experimental labs to uncover algorithms of information processing in a range of systems, from single neurons to foraging mosquitoes to navigating primates](https://fairhalllab.com/) | https://fairhalllab.com/publications/ | + |
+| Fox, Emily B. | [large-scale Bayesian dynamic modeling and computations](https://homes.cs.washington.edu/~ebfox/) | https://homes.cs.washington.edu/~ebfox/publications/ | = (not focused on neuroscience) |
+| Kutz, Nathan | [Theoretical Methods for Characterizing the Brain and Sensory-Motor Processing](https://faculty.washington.edu/kutz/page2/page8/) | https://scholar.google.com/citations?hl=en&user=kfT42KEAAAAJ&view_op=list_works | + |
+|  Mihalas, Stefan | [he works to build a series of models of increasing complexity for both individual components, i.e., neurons, synapses, and microcircuits, as well as for large portions of the entire system](https://alleninstitute.org/what-we-do/brain-science/about/team/staff-profiles/stefan-mihalas/) | https://www.ncbi.nlm.nih.gov/pubmed/?term=Mihalas+Stefan[Author] | + |
+| Rao, Rajesh | [Neural networks implemented on Neurochip FPGA; A dynamical systems approach to understanding cortical microcircuits, adaptation and plasticity induction](http://www.csne-erc.org/content/projects)| http://www.csne-erc.org/sites/default/files/CSNE%20Publications_List_9_18.pdf | + |
+| Rokem, Ariel | [development of data science tools, techniques and methods and their application to the analysis of neural data](https://escience.washington.edu/people/ariel-rokem/) | https://scholar.google.com/citations?user=hrBeLVYAAAAJ&hl=en | + |
+| Shea-Brown, Eric | [nonlinear dynamics of neurons, neural networks, and neural populations](http://faculty.washington.edu/etsb/) | http://faculty.washington.edu/etsb/publications.html | + |
+| Stocco, Andrea | [research concerns how human use abstract mental representations (like, rules, instructions, and plans) to perform complex tasks. He uses computational and mathematical models, neuroimaging techniques, and brain stimulation methods determine and predict how these mental representations are encoded in the brain, how they are transformed into behavior, and how this knowledge can be used to improve learning and skill acquisition](http://ilabs.washington.edu/institute-faculty/bio/i-labs-andrea-stocco-phd) | http://depts.washington.edu/ccdl/?page_id=63 | + |
+| Shlizerman, Eli | [development of generic computational approaches and modeling actual biological and physical systems](http://faculty.washington.edu/shlizee/) | http://faculty.washington.edu/shlizee/publications.html | + |
+| Witten, Daniela | [statistical machine learning techniques for problems in genomics and neuroscience](https://faculty.washington.edu/dwitten/research.html) | https://faculty.washington.edu/dwitten/research.html | + |
 
 # U.S. Central
 ## [University of Illinois](https://neuroscience.illinois.edu/research/research-overview/computational-neuroscience)
