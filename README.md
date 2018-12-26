@@ -3,7 +3,7 @@
 
 /play letitgo
 
-To contribute, see [:pencil: code of contribution](https://github.com/eselkin/awesome-computational-neuroscience/blob/master/contributing.md)
+To contribute, see [:pencil2: code of contribution](https://github.com/eselkin/awesome-computational-neuroscience/blob/master/contributing.md)
 
 A list of schools and researchers in computational neuroscience
 # Index
