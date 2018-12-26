@@ -13,7 +13,8 @@ While most schools do not have a computational neuroscience or theoretical neuro
 4. Immediately following the ## section name for the school a list element should be included for all ways to apply to graduate programs at that school and particularly how to enter the computational neuroscience program. Include relevant things such as GRE institution and department IDs (usually found on the application page for the program). If there is a minimum GRE requirement or a GRE subject test requirement, please list them.  
 5. Each school faculty list should begin with the header column: 
 * ``` | PI(Ph.D.s) | Research Areas | DOIs | +/=/- (likely related to more computational methods) |``` 
-followed on the next line by the vertical row separator: 
+
+followed on the next line by the  row separator: 
 * ```|---|---|---|---|```
 6. <a href="#add_to_school">Adding faculty to a school</a>
 
