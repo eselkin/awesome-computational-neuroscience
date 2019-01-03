@@ -9,18 +9,28 @@ A list of schools and researchers in computational neuroscience
 <div id="toc">Table of Contents</div>
 
 * U.S. West 
-    1. <a href="#stanford">Stanford</a>
-    2. <a href="#ucberkeley">University of California, Berkeley</a>
-    3. <a href="#ucdavis">University of California, Davis</a>
-    4. <a href="#ucsd">University of California, San Diego</a>
-    5. <a href="#uofo">University of Oregon</a>
-    6. <a href="#uoft">University of Texas, Austin</a>
-    7. <a href="#uw">University of Washington</a>
+    1. <a href="#caltech">California Institute of Technology</a>
+    2. <a href="#stanford">Stanford</a>
+    3. <a href="#ucberkeley">University of California, Berkeley</a>
+    4. <a href="#ucdavis">University of California, Davis</a>
+    5. <a href="#ucsd">University of California, San Diego</a>
+    6. <a href="#uofo">University of Oregon</a>
+    7. <a href="#uoft">University of Texas, Austin</a>
+    8. <a href="#uw">University of Washington</a>
 * U.S. Central
     1. <a href="#illinois">University of Illinois</a>
 * U.S. East
-
+    1. <a href="#brown">Brown University</a>
+    2.  <a href="#cmu">Carnegie Mellon University</a>
+    3.  <a href="#mit">Massachussetts Institute of Technology</a>
 # U.S. West
+## <div id="caltech">[California Intitute of Technology](http://www.cns.caltech.edu/admissions/index.html) <a href="#toc"><sup>(^toc)</sup></a></div>
+Apply: 
+* [General Graduate application, multidisciplinary program. ](http://www.gradoffice.caltech.edu/admissions/applyonline)
+
+| PI(Ph.D.s) | Research Areas | DOIs | +/=/- (likely related to more computational methods) |
+|---|---|---|---|
+
 ## <div id="stanford">[Stanford](https://neuroscience.stanford.edu/mbct/home) <a href="#toc"><sup>(^toc)</sup></a></div>
 Apply: 
 * [Neurosciences Ph.d., GREs no longer used.](https://med.stanford.edu/neurogradprogram/prospective_students.html)
@@ -62,22 +72,22 @@ Apply:
 * [Vision Science Ph.D., Apply, GRE: Institution: 4833, Department: 0611]( https://vision.berkeley.edu/admissions)
 * [Electrical Engineering and Computer Sciences, Ph.D., GRE: Institution(4833), Department(Not required) ](https://eecs.berkeley.edu/academics/graduate/research-programs/admissions)
 
-| PI(Ph.D.s) | Research Areas | DOIs |
-|---|---|---|
-| Banks, Martin | [Visual space perception and sensory combination](http://bankslab.berkeley.edu/) | http://bankslab.berkeley.edu/publications/index.html |
-| Bouchard, Kristofer | [How distributed neural circuits give rise to coordinated behaviors and perception](https://redwood.berkeley.edu/people/kristofer-bouchard/) | https://doi.org/10.1109/EMBC.2017.8037645, https://doi.org/10.1152/jn.00296.2017, https://arxiv.org/abs/1505.00041, http://bouchardlab.lbl.gov/publications/| 
+| PI(Ph.D.s) | Research Areas | DOIs | +/=/- (likely related to more computational methods)|
+|---|---|---|---|
+| Banks, Martin | [Visual space perception and sensory combination](http://bankslab.berkeley.edu/) | http://bankslab.berkeley.edu/publications/index.html | + |
+| Bouchard, Kristofer | [How distributed neural circuits give rise to coordinated behaviors and perception](https://redwood.berkeley.edu/people/kristofer-bouchard/) | https://doi.org/10.1109/EMBC.2017.8037645, https://doi.org/10.1152/jn.00296.2017, https://arxiv.org/abs/1505.00041, http://bouchardlab.lbl.gov/publications/| + |
 | Carmena, Jose | [Neural basis of motor skill learning. Application to neural prostheses and development of neural dust technology](https://neuroscience.berkeley.edu/faculty/) | https://scholar.google.com/citations?user=qyF6UhQAAAAJ&hl=en&oi=ao |
-| Collins, Anne | [Computational modeling of human learning, decision-making, and executive functions.... Computational modeling lets us precisely and quantitatively define theories, make explicit predictions, and investigate how well different information representations work in different environments. Computational modeling may also provide a link to the mechanistic implementation of processes.](https://www.ocf.berkeley.edu/~acollins/) | https://www.ocf.berkeley.edu/~acollins/pages/publications.html |
-| Cooper, Emily | [Computational modeling of visual perception...We study the statistics of natural images and examine their relevance for visual coding and perception](http://www.emilyacooper.org/research.html)| http://www.emilyacooper.org/publications.html |
-| Dan, Yang | [Neural circuits controlling sleep; mechanisms of executive control...](http://mcb.berkeley.edu/faculty/NEU/dany) | https://scholar.google.com/citations?hl=en&user=8dea7mQAAAAJ&view_op=list_works&sortby=pubdate|
-| DeWeese, Mike | [experimental and theoretical neuroscience](https://redwood.berkeley.edu/people/mike-deweese/) | |
-| Feinberg, David | [MRI technology development, mapping columnar and visual circuitry, modeling neurovascular coupling.]() | - |
-| Gallant, Jack | [Identifying cortical maps to discover how the brain represents information about the world and its own mental states... To address this problem, our laboratory makes heavy use of an inductive scientific approach called system identification. System identification is a systematic approach for discovering the computational principles of an unknown system such as the brain.](http://gallantlab.org/) | https://scholar.google.com/citations?user=nSZG-vcAAAAJ&hl=en |
-| Li, Lexin | [Neuroimaging data analysis: brain connectivity and network analysis, imaging causal inference, imaging genetics, longitudinal imaging analysis, multi-modality analysis, tensor analysis; Statistical genetics, computational biology; Dimension reduction, variable selection, high dimensional regressions; Statistical machine learning, data mining, computational statistics](http://lexinli.biostat.berkeley.edu/) | https://scholar.google.com/citations?hl=en&user=JTwOVhEAAAAJ&view_op=list_works&sortby=pubdate |
-| Maharbiz, Michel | [Building micro- and nano- scale machine interfaces to cells and organisms, including development of neural dust technology.](maharbizgroup.wordpress.com)|https://maharbizgroup.wordpress.com/publications/ |
-| Olshausen, Bruno | [Developing new theoretical frameworks and models of vision](https://redwood.berkeley.edu/people/bruno-olshausen/) | http://www.rctn.org/bruno/papers/ |
-| Sommer, Friedrich | [Theoretical principles of learning and perception.My lab investigates the theoretical principles of learning and perception and their biological bases in the circuit dynamics of the brain. To study these issues we develop computational models of the brain, as well as advanced techniques of data analysis](http://www.rctn.org/wiki/Fritz_Sommer#Research_Interests) | https://scholar.google.com/citations?hl=en&user=lA-oLkgAAAAJ&view_op=list_works&sortby=pubdate |
-| Theunissen, Frédéric | [The overarching goal of our laboratory is to understand how complex natural sounds such as human speech, music and animal vocalizations are detected and recognized by the brain...We use computational methods in neuroscience to generate theories of audition, to study sounds and to analyze our neural data](http://theunissen.berkeley.edu/) | http://theunissen.berkeley.edu/publications.html |
+| Collins, Anne | [Computational modeling of human learning, decision-making, and executive functions.... Computational modeling lets us precisely and quantitatively define theories, make explicit predictions, and investigate how well different information representations work in different environments. Computational modeling may also provide a link to the mechanistic implementation of processes.](https://www.ocf.berkeley.edu/~acollins/) | https://www.ocf.berkeley.edu/~acollins/pages/publications.html | + |
+| Cooper, Emily | [Computational modeling of visual perception...We study the statistics of natural images and examine their relevance for visual coding and perception](http://www.emilyacooper.org/research.html)| http://www.emilyacooper.org/publications.html | + |
+| Dan, Yang | [Neural circuits controlling sleep; mechanisms of executive control...](http://mcb.berkeley.edu/faculty/NEU/dany) | https://scholar.google.com/citations?hl=en&user=8dea7mQAAAAJ&view_op=list_works&sortby=pubdate| + |
+| DeWeese, Mike | [experimental and theoretical neuroscience](https://redwood.berkeley.edu/people/mike-deweese/) | | + |
+| Feinberg, David | [MRI technology development, mapping columnar and visual circuitry, modeling neurovascular coupling.]() | - | + |
+| Gallant, Jack | [Identifying cortical maps to discover how the brain represents information about the world and its own mental states... To address this problem, our laboratory makes heavy use of an inductive scientific approach called system identification. System identification is a systematic approach for discovering the computational principles of an unknown system such as the brain.](http://gallantlab.org/) | https://scholar.google.com/citations?user=nSZG-vcAAAAJ&hl=en | + |
+| Li, Lexin | [Neuroimaging data analysis: brain connectivity and network analysis, imaging causal inference, imaging genetics, longitudinal imaging analysis, multi-modality analysis, tensor analysis; Statistical genetics, computational biology; Dimension reduction, variable selection, high dimensional regressions; Statistical machine learning, data mining, computational statistics](http://lexinli.biostat.berkeley.edu/) | https://scholar.google.com/citations?hl=en&user=JTwOVhEAAAAJ&view_op=list_works&sortby=pubdate | + |
+| Maharbiz, Michel | [Building micro- and nano- scale machine interfaces to cells and organisms, including development of neural dust technology.](maharbizgroup.wordpress.com)|https://maharbizgroup.wordpress.com/publications/ | + |
+| Olshausen, Bruno | [Developing new theoretical frameworks and models of vision](https://redwood.berkeley.edu/people/bruno-olshausen/) | http://www.rctn.org/bruno/papers/ | + |
+| Sommer, Friedrich | [Theoretical principles of learning and perception.My lab investigates the theoretical principles of learning and perception and their biological bases in the circuit dynamics of the brain. To study these issues we develop computational models of the brain, as well as advanced techniques of data analysis](http://www.rctn.org/wiki/Fritz_Sommer#Research_Interests) | https://scholar.google.com/citations?hl=en&user=lA-oLkgAAAAJ&view_op=list_works&sortby=pubdate | + |
+| Theunissen, Frédéric | [The overarching goal of our laboratory is to understand how complex natural sounds such as human speech, music and animal vocalizations are detected and recognized by the brain...We use computational methods in neuroscience to generate theories of audition, to study sounds and to analyze our neural data](http://theunissen.berkeley.edu/) | http://theunissen.berkeley.edu/publications.html | + |
 
 ## <div id="ucdavis">[University of California, Davis](https://neuroscience.ucdavis.edu/computational) <a href="#toc"><sup>(^toc)</sup></a></div>
 Apply: 
@@ -174,4 +184,37 @@ Kristan, William | [study vector calculations, coding/decoding, and control of g
 | Witten, Daniela | [statistical machine learning techniques for problems in genomics and neuroscience](https://faculty.washington.edu/dwitten/research.html) | https://faculty.washington.edu/dwitten/research.html | + |
 
 # U.S. Central
-## [University of Illinois](https://neuroscience.illinois.edu/research/research-overview/computational-neuroscience)
+##  <div id="illinois">[University of Illinois](https://neuroscience.illinois.edu/research/research-overview/computational-neuroscience) <a href="#toc"><sup>(^toc)</sup></a></div>
+
+* [No school or department code for GRE, but GRE required for Neuroscience admission.](https://neuroscience.illinois.edu/admissions/graduate-school-application-0)
+
+| PI(Ph.D.s) | Research Areas | DOIs | +/=/- (likely related to more computational methods) |
+|---|---|---|---|
+| Allen, Jont | [hearing/acoustics](?) | https://scholar.google.com/citations?hl=en&user=sGfS_aUAAAAJ&view_op=list_works&sortby=pubdate | = |
+| Fuller, Rebecca (Becky) | My lab is broadly interested in ecology and evolution as it applies to fishes. | https://scholar.google.com/citations?hl=en&user=Y1cDGKYAAAAJ&view_op=list_works&sortby=pubdate | -? |
+| Gillette, Rhanor | [• Neuronal mechanisms of decision in circuit, cell, metabolism, and genome • Directed evolution of brain circuits for cognition and sociality • Computational simulations of choice, esthetic sense, and emerging behavioral complexity • Comparative neurobiology of the predatory sea-slug Pleurobranchaea and the octopus](https://neuroscience.illinois.edu/profile/rhanor) | https://scholar.google.com/scholar?as_ylo=2018&q=Rhanor+Gillette&hl=en&as_sdt=0,5 | + |
+| Llano, Daniel | [One specific set of issues that we address concerns the role of different cortical subnetworks in complex sound processing. For example, neurons in both cortical layer 5 and cortical layer 6 project to subcortical structures, and the neurons in these layers have very different intrinsic, integrative and synaptic properties. Our work explores the different roles that these groups of neurons play in the processing of complex sound](https://neuroscience.illinois.edu/profile/d-llano) | https://neuroscience.illinois.edu/profile/d-llano | + |
+| Lopez-Ortiz, Citlali | [Our research is interdisciplinary and involves the areas of dance, biomechanics, mathematical modeling, motor control, motor learning, physics, body-environment interfaces, mixed media, computational neuroscience, neurophysiology, and rehabilitation](http://danceneuroscience.kch.illinois.edu/) | http://danceneuroscience.kch.illinois.edu/research | + |
+| Nelson, Mark E. | [Research in the lab is focused on active sensory acquisition. We seek to understand neural mechanisms and computational principles that animals use to actively acquire sensory information in complex, dynamic environments](https://neuroscience.illinois.edu/profile/m-nelson) | https://scholar.google.com/citations?hl=en&user=wr4PHUUAAAAJ&view_op=list_works&sortby=pubdate | +  |
+| Vlasov, Yurii | [Behaviorial paradigms in virtual reality to study neural circuits in almost natural environment while mice are engaged in goal-directed behavior. Virtual reality systems allow full control over behaviorial tasks and quantitative measurements of resulting behavior.  Neuroanatomy leveraging new viral, genetic, and computational tools to provide insights into brain circuits functionality.Machine learning based analytical methods to extract dynamical patterns of neural activity that are correlated with animal behavior and choice](https://neuroscience.illinois.edu/profile/yvlasov) | https://www.integratedneurotech.com/neuro-informatics | + |
+
+# U.S. East
+##  <div id="brown">[Brown University](http://neuroscience.brown.edu/graduate/faculty/computational) <a href="#toc"><sup>(^toc)</sup></a></div>
+
+| PI(Ph.D.s) | Research Areas | DOIs | +/=/- (likely related to more computational methods) |
+|---|---|---|---|
+
+
+##  <div id="cmu">[Carnegie Mellon University](http://www.cnbc.cmu.edu/training/graduate/computational-neuroscience/) <a href="#toc"><sup>(^toc)</sup></a></div>
+
+| PI(Ph.D.s) | Research Areas | DOIs | +/=/- (likely related to more computational methods) |
+|---|---|---|---|
+
+
+##  <div id="mit">Massachussetts Institute of Technology [BCS](https://bcs.mit.edu/academic-program/graduate/graduate-admissions) or [CBMM](https://cbmm.mit.edu/research/principal-investigators)<a href="#toc"><sup>(^toc)</sup></a></div>
+* [Brain + Cognitive Sciences, GRE Institution(3514), ](https://bcs.mit.edu/academic-program/graduate/graduate-admissions)
+* [Center for Brains, Minds and Machines](https://cbmm.mit.edu/about)
+
+| PI(Ph.D.s) | Research Areas | DOIs | +/=/- (likely related to more computational methods) |
+|---|---|---|---|
+
