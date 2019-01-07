@@ -29,7 +29,7 @@ A list of schools and researchers in computational neuroscience
 ## <div id="caltech">[California Intitute of Technology](http://www.cns.caltech.edu/admissions/index.html) <a href="#toc"><sup>(^toc)</sup></a></div>
 Apply: 
 * [General Graduate application, multidisciplinary program. ](http://www.gradoffice.caltech.edu/admissions/applyonline)
-<font size="-1">
+<sub>
 
 | PI(Ph.D.s) | Research Areas | DOIs | +/=/- (likely related to more computational methods) |
 |---|---|---|---|
@@ -68,7 +68,7 @@ Apply:
 | Tsao, Doris | [Segmentation (Our lab is pursuing the neural mechanisms underlying segmentation through a variety of approaches including mathematical modeling and development of new experimental models for study of visual segmentation), Recognition, Consciousness, Space, Tools to explore](https://www.tsaolab.caltech.edu/) | https://www.tsaolab.caltech.edu/publications/ | + |
 | Winfree, Erik | [Biomolecular computation, DNA based computation, algorithmic self-assembly, in vitro biochemical circuits, noise and fault-tolerance, DNA and RNA folding, evolution.](http://www.dna.caltech.edu/~winfree/) [or](http://molecular-programming.org/) | https://scholar.google.com/citations?hl=en&user=5GQF2FwAAAAJ&pagesize=100&view_op=list_works&sortby=pubdate | + |
 | Yue, Yisong | [Yisong Yue's research interests lie primarily in the theory and application of statistical machine learning. He is more generally interested in artificial intelligence. Currently, he is particularly interested in learning with humans in the loop, interactive learning systems, and spatiotemporal reasoning](http://www.yisongyue.com/) | http://www.yisongyue.com/ | + |
-</font>
+</sub>
 
 ## <div id="stanford">[Stanford](https://neuroscience.stanford.edu/mbct/home) <a href="#toc"><sup>(^toc)</sup></a></div>
 Apply: 
