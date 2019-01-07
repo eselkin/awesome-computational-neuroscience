@@ -18,8 +18,9 @@ A list of schools and researchers in computational neuroscience
     7. <a href="#uoft">University of Texas, Austin</a>
     8. <a href="#uw">University of Washington</a>
 * U.S. Central
-    1. <a href="#illinois">University of Illinois</a>
-    2. <a href="#iowa">University of Iowa</a>
+    1. <a href="#chicago">University of Chicago</a>
+    2. <a href="#illinois">University of Illinois</a>
+    3. <a href="#iowa">University of Iowa</a>
 * U.S. East
     1. <a href="#brown">Brown University</a>
     2.  <a href="#cmu">Carnegie Mellon University</a>
@@ -28,6 +29,7 @@ A list of schools and researchers in computational neuroscience
 ## <div id="caltech">[California Intitute of Technology](http://www.cns.caltech.edu/admissions/index.html) <a href="#toc"><sup>(^toc)</sup></a></div>
 Apply: 
 * [General Graduate application, multidisciplinary program. ](http://www.gradoffice.caltech.edu/admissions/applyonline)
+<font size="-1">
 
 | PI(Ph.D.s) | Research Areas | DOIs | +/=/- (likely related to more computational methods) |
 |---|---|---|---|
@@ -66,13 +68,15 @@ Apply:
 | Tsao, Doris | [Segmentation (Our lab is pursuing the neural mechanisms underlying segmentation through a variety of approaches including mathematical modeling and development of new experimental models for study of visual segmentation), Recognition, Consciousness, Space, Tools to explore](https://www.tsaolab.caltech.edu/) | https://www.tsaolab.caltech.edu/publications/ | + |
 | Winfree, Erik | [Biomolecular computation, DNA based computation, algorithmic self-assembly, in vitro biochemical circuits, noise and fault-tolerance, DNA and RNA folding, evolution.](http://www.dna.caltech.edu/~winfree/) [or](http://molecular-programming.org/) | https://scholar.google.com/citations?hl=en&user=5GQF2FwAAAAJ&pagesize=100&view_op=list_works&sortby=pubdate | + |
 | Yue, Yisong | [Yisong Yue's research interests lie primarily in the theory and application of statistical machine learning. He is more generally interested in artificial intelligence. Currently, he is particularly interested in learning with humans in the loop, interactive learning systems, and spatiotemporal reasoning](http://www.yisongyue.com/) | http://www.yisongyue.com/ | + |
+</font>
 
 ## <div id="stanford">[Stanford](https://neuroscience.stanford.edu/mbct/home) <a href="#toc"><sup>(^toc)</sup></a></div>
 Apply: 
 * [Neurosciences Ph.d., GREs no longer used.](https://med.stanford.edu/neurogradprogram/prospective_students.html)
 
+<font size="-1">
 | PI(Ph.D.s) | Research Areas | DOIs | +/=/- (likely related to more computational methods) |
-|---|---|---|---|
+|--|--|-|--|
 | Airan, Raag | [precisely deliver drugs to the brain, to mediate more precise control of neural activity, in addition to other therapeutic effects](http://airan-lab.stanford.edu/) | http://airan-lab.stanford.edu/publications/ | = |
 | Baccus, Stephen A. | [(Brain-Machine Interfaces,Neuro-circuit interventional research consortium for understanding the brain and improving treatment) We study how the circuitry of the retina translates the visual scene into electrical impulses in the optic nerve...experimental data is used to create mathematical models to predict and explain the output of the retinal circuit.](https://baccuslab.sites.stanford.edu/) | https://scholar.google.com/scholar?as_ylo=2017&q=baccus+stephen+a&hl=en&as_sdt=0,5 | + |
 | Chichilnisky, E.J. | [The goal of our research is to understand how the neural circuitry of the retina encodes visual information, and to use this knowledge in the development of artificial retinas for treating incurable blindness](http://med.stanford.edu/neurosurgery/research/chichilnisky.html) | http://med.stanford.edu/neurosurgery/research/chichilnisky/publications.html | + |
@@ -101,12 +105,15 @@ Apply:
 | Wagner, Anthony D | [Current research directions – which combine behavior, brain imaging, virtual reality, and computational approaches](https://memorylab.stanford.edu/) | https://memorylab.stanford.edu/publications/2010-current | + |
 | Williams, Leanne | [...Biomedical data sciences and informatics are also essential, not only because of the amount of data we generate, but also because we rely on increasingly sophisticated computational models to understand such complex phenomena as the brain and depression](http://williamspanlab.com/) | http://williamspanlab.com/publications | = |
 | Yamins, Daniel | [Our research lies at intersection of neuroscience, artificial intelligence,  psychology and large-scale data analysis.    We seek to "reverse engineer" the algorithms of the brain, both to learn  about how our minds work and to build more effective artificial intelligence systems](http://neuroailab.stanford.edu/) | http://neuroailab.stanford.edu/publications.html | + |
+</font>
 
 ## <div id="ucberkeley">[University of California, Berkeley](https://redwood.berkeley.edu/people/) <a href="#toc"><sup>(^toc)</sup></a></div>
 Apply: 
 * [Neuroscience Ph.D., GRE: Institution: 4833, Department: 0213](http://neuroscience.berkeley.edu/ph-d-program/)
 * [Vision Science Ph.D., Apply, GRE: Institution: 4833, Department: 0611]( https://vision.berkeley.edu/admissions)
 * [Electrical Engineering and Computer Sciences, Ph.D., GRE: Institution(4833), Department(Not required) ](https://eecs.berkeley.edu/academics/graduate/research-programs/admissions)
+
+<font size="-1">
 
 | PI(Ph.D.s) | Research Areas | DOIs | +/=/- (likely related to more computational methods)|
 |---|---|---|---|
@@ -124,10 +131,13 @@ Apply:
 | Olshausen, Bruno | [Developing new theoretical frameworks and models of vision](https://redwood.berkeley.edu/people/bruno-olshausen/) | http://www.rctn.org/bruno/papers/ | + |
 | Sommer, Friedrich | [Theoretical principles of learning and perception.My lab investigates the theoretical principles of learning and perception and their biological bases in the circuit dynamics of the brain. To study these issues we develop computational models of the brain, as well as advanced techniques of data analysis](http://www.rctn.org/wiki/Fritz_Sommer#Research_Interests) | https://scholar.google.com/citations?hl=en&user=lA-oLkgAAAAJ&view_op=list_works&sortby=pubdate | + |
 | Theunissen, Frédéric | [The overarching goal of our laboratory is to understand how complex natural sounds such as human speech, music and animal vocalizations are detected and recognized by the brain...We use computational methods in neuroscience to generate theories of audition, to study sounds and to analyze our neural data](http://theunissen.berkeley.edu/) | http://theunissen.berkeley.edu/publications.html | + |
+</font>
 
 ## <div id="ucdavis">[University of California, Davis](https://neuroscience.ucdavis.edu/computational) <a href="#toc"><sup>(^toc)</sup></a></div>
 Apply: 
 * [Neuroscience, GRE: Institution(4834), Dept(None specified), GRE Subject test encouraged (...)](https://grad.neuroscience.ucdavis.edu/apply)
+
+<font size="-1">
 
 | PI(Ph.D.s) | Research Areas | DOIs |
 |---|---|---|
@@ -138,9 +148,11 @@ Apply:
 | Hanks, Tim | [We use the knowledge gained from these experiments to develop and constrain circuit-level descriptions of the computations that underlie decision making.](https://neuroscience.ucdavis.edu/people/tim-hanks) | http://doi.org/10.1038/nature14066 |
 | Nord, Alex | [(Brain Disease, Disorders), To that end, I perform both experimental work and computational analysis to reveal function of primary DNA sequence, epigenomic modifications, and chromatin structure](https://neuroscience.ucdavis.edu/people/alex-nord) | https://www.ncbi.nlm.nih.gov/myncbi/browse/collection/40143131/?sort=date&direction=descending |
 | W. Martin Ursey (Chair) | [Structure, Function and Development of Neural Circuits for Vision](https://neuroscience.ucdavis.edu/people/w-martin-usrey) | http://doi.org/10.1016/j.neuron.2016.02.038 |
+</font>
 
 ## <div id="ucsd">[University of California San Diego](https://medschool.ucsd.edu/education/neurograd/computational/Pages/Faculty.aspx) and Salk Institute <a href="#toc"><sup>(^toc)</sup></a></div>
 * [Neurograd program, GRE: Institution(4836) Department(0213), Specify interest in Computational Neuroscience specialization](https://medschool.ucsd.edu/education/neurograd/prospective-students/Pages/default.aspx)
+<font size="-1">
 
 | PI(Ph.D.s) | Research Areas | DOIs |
 |---|---|---|
@@ -170,7 +182,11 @@ Kristan, William | [study vector calculations, coding/decoding, and control of g
 | Voytek, Bradley | [focused on combining large scale data-mining and machine-learning techniques with hypothesis-driven experimental research to understand the relationships between the human frontal lobes, cognition, and disease](https://medschool.ucsd.edu/education/neurograd/faculty/Pages/bradley-voytek.aspx) | https://voyteklab.com/publications/ |
 | Yeo, Gene | [leader in developing the molecular and cellular resources and robust technologies required for truly large-scale studies of hundreds of RNA binding proteins and their RNA targets](https://medschool.ucsd.edu/education/neurograd/faculty/Pages/gene-yeo.aspx) | http://yeolab.github.io/papers/ |
 |Yu, Angela J. | [Computational modeling and psychophysics of attention, learning, and decision-making](https://medschool.ucsd.edu/education/neurograd/faculty/Pages/angela-yu.aspx) | http://www.cogsci.ucsd.edu/~ajyu/ |
+</font>
+
 ## <div id="uofo">[University of Oregon](http://ion.uoregon.edu/content/cognitive-computational-and-systems-neuroscience-training-program) <a href="#toc"><sup>(^toc)</sup></a></div>
+<font size="-1">
+
 | PI(Ph.D.s) | Research Areas | DOIs | +/=/- (likely related to more computational methods) |
 |---|---|---|---|
 |Ahmadian, Yashar | [(Theoretical Neuroscience)...understanding how large networks of neurons...process sensory inputs and give rise to higher-level cognitive functions through their collective dynamics on multiple time scales](http://ion.uoregon.edu/content/yashar-ahmadian)| https://scholar.google.com/citations?hl=en&user=ZDaThWgAAAAJ&view_op=list_works&sortby=pubdate | + |
@@ -185,9 +201,12 @@ Kristan, William | [study vector calculations, coding/decoding, and control of g
 | Sylwestrak, Emily | [understand how heterogeneous, molecularly-defined neuronal populations work together to drive behavior](http://ion.uoregon.edu/content/emily-sylwestrak) | https://www.sylwestraklab.com/papers | = |
 | Washbourne, Philip | [Molecular mechanisms of synapse formation](http://ion.uoregon.edu/content/philip-washbourne) | https://blogs.uoregon.edu/washbournelab/publications/ | = |
 | Wehr, Michael | [How local circuits in the auditory cortex encode and transform sensory information](http://ion.uoregon.edu/content/michael-wehr) | http://uoneuro.uoregon.edu/wehr/publications.html | + |
+</font>
 
 ## <div id="uoft">[University of Texas, Austin](http://ctcn.utexas.edu/people/) <a href="#toc"><sup>(^toc)</sup></a></div>
 * [Apply through: GRE: Institutional(6882), Mathematics (GRE: self report on application), Computer Science (No minimum, but high quant), Physics, ECE, Neuroscience, Psychology... ](http://ctcn.utexas.edu/apply-students/)
+
+<font size="-1">
 
 | PI(Ph.D.s) | Research Areas | DOIs | +/=/- (likely related to more computational methods) |
 |---|---|---|---|
@@ -198,8 +217,11 @@ Kristan, William | [study vector calculations, coding/decoding, and control of g
 | Tran, Ngoc Mai | [probabilistic and combinatorial questions arising from tropical geometry and neuroscience](http://ctcn.utexas.edu/member/ngoc-mai-tran/) | https://web.ma.utexas.edu/users/ntran/pub.html | + |
 | Geisler, Bill | [research combines behavioral studies, neurophysiological studies, studies of natural stimuli, and mathematical analysis](http://ctcn.utexas.edu/member/bill-geisler/) | https://liberalarts.utexas.edu/cps/faculty/wsg8#publications | + |
 | Soloveichik, David | [(molecular programming), theoretical connections between distributed computing and molecular information processing. David is also interested in understanding how neural networks can execute distributed computing algorithms](http://ctcn.utexas.edu/member/david-soloveichik/) | https://scholar.google.com/citations?hl=en&user=dSPQHDoAAAAJ&view_op=list_works&sortby=pubdate | + |
+</font>
+
 ## <div id="uw">[University of Washington, Seattle](http://compneuro.washington.edu/wordpress/training-programs/graduate-training-program/) <a href="#toc"><sup>(^toc)</sup></a></div> 
 * [Apply through: GRE: Institutional(6882), Mathematics (GRE: self report on application), Computer Science (No minimum, but high quant), Physics, ECE, Neuroscience, Psychology... ](http://ctcn.utexas.edu/apply-students/)
+<font size="-1">
 
 | PI(Ph.D.s) | Research Areas | DOIs | +/=/- (likely related to more computational methods) |
 |---|---|---|---|
@@ -218,6 +240,7 @@ Kristan, William | [study vector calculations, coding/decoding, and control of g
 | Stocco, Andrea | [research concerns how human use abstract mental representations (like, rules, instructions, and plans) to perform complex tasks. He uses computational and mathematical models, neuroimaging techniques, and brain stimulation methods determine and predict how these mental representations are encoded in the brain, how they are transformed into behavior, and how this knowledge can be used to improve learning and skill acquisition](http://ilabs.washington.edu/institute-faculty/bio/i-labs-andrea-stocco-phd) | http://depts.washington.edu/ccdl/?page_id=63 | + |
 | Shlizerman, Eli | [development of generic computational approaches and modeling actual biological and physical systems](http://faculty.washington.edu/shlizee/) | http://faculty.washington.edu/shlizee/publications.html | + |
 | Witten, Daniela | [statistical machine learning techniques for problems in genomics and neuroscience](https://faculty.washington.edu/dwitten/research.html) | https://faculty.washington.edu/dwitten/research.html | + |
+</font>
 
 # U.S. Central
 ##  <div id="illinois">[University of Illinois](https://neuroscience.illinois.edu/research/research-overview/computational-neuroscience) <a href="#toc"><sup>(^toc)</sup></a></div>
