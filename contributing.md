@@ -1,11 +1,10 @@
 # Contributing to the awesome computational neuroscience list
 1. You must have a github account (create one or log in)
 2. You must submit changes by pull-request (i.e. Fork this repository, make your changes in your version of the repository, then make a pull request with your pushed changes)
-3. The only file that will accept pull-requests is the ```README.md``` file.
-4. Abuses of anything are not tolerated.
+3. Abuses of anything or anyone are not tolerated.
 
 ## Contributing a new school
-While most schools do not have a computational neuroscience or theoretical neuroscience department or Ph.D. program, we would like to solely accept schools that have at least a graduate specialization/training program in these areas. Any school, in the U.S.A. or elsewhere is welcome as long as it meets this criterion.
+While most schools do not have a computational neuroscience or theoretical neuroscience department or Ph.D. program, we would like to solely accept schools that have at least a graduate specialization/training program in these areas. Any school, in the U.S.A. or elsewhere is welcome as long as it meets this criterion. Faculty who have been identified as PIs should be listed unless current publications cannot be located... It's really important to be able to read the publications of the people with whom you are interested in working!
 
 1. Each school is preceded by a ## followed by the name of the school. The name of the school should be a hyperlink to the faculty page or the application to graduate education page for the program in computational neuroscience.
 2. A `<div id="unique_school_name">` tag should be surrounding the name of the school with an id attribute that is specific to that school.
