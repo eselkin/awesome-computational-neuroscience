@@ -145,7 +145,6 @@ Apply:
 
 ## <div id="ucsd">[University of California San Diego](https://medschool.ucsd.edu/education/neurograd/computational/Pages/Faculty.aspx) and Salk Institute <a href="#toc"><sup>(^toc)</sup></a></div>
 * [Neurograd program, GRE: Institution(4836) Department(0213), Specify interest in Computational Neuroscience specialization](https://medschool.ucsd.edu/education/neurograd/prospective-students/Pages/default.aspx)
-<font size="-1">
 
 | PI(Ph.D.s) | Research Areas | DOIs | +/=/- (likely related to more computational methods) |
 |---|---|---|---|
