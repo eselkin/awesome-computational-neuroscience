@@ -321,6 +321,9 @@ Kristan, William | <sub>[study vector calculations, coding/decoding, and control
 
 # U.S. East
 ##  <div id="brown">[Brown University](http://neuroscience.brown.edu/graduate/faculty/computational) <a href="#toc"><sup>(^toc)</sup></a></div>
+* [For all departments, apply generally to Brown Graduate school. GRE @ Institution(3094). For Brown University School of Public Health @ Institution(7765). Neuroscience @ Departmnent(0213). Applied Math ?. ](https://www.brown.edu/academics/gradschool/apply)
+* [For NIH/Neuroscience also fill out the NIH Partnership Application](https://www2.training.nih.gov/apps/publicForms/gpp/forms/login.aspx)
+* [See Behavioral Neuroscience Requirements](https://www.brown.edu/academics/cognitive-linguistic-psychological-sciences/prospective-graduate-students)
 
 | PI(Ph.D.s) | Research Areas | DOIs | +/=/- (likely related to more computational methods) |
 |---|---|---|---|
