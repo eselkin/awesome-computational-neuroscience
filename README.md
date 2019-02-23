@@ -7,10 +7,11 @@
 A list of schools and researchers in computational neuroscience
 # Index
 <font size=-1>
-<div id="toc">Table of Contents:</div>
-1. North America:
-    1. United States
-        1. U.S. West
+<div id="toc">Table of Contents</div>
+
+* North America
+    * United States:
+        * U.S. West 
             1. <a href="#caltech">California Institute of Technology</a>
             2. <a href="#stanford">Stanford</a>
             3. <a href="#ucberkeley">University of California, Berkeley</a>
@@ -20,15 +21,14 @@ A list of schools and researchers in computational neuroscience
             7. <a href="#usc">University of Southern California</a>
             8. <a href="#uoft">University of Texas, Austin</a>
             9. <a href="#uw">University of Washington</a>
-        2. U.S. Central
+        * U.S. Central
             1. <a href="#chicago">University of Chicago</a>
             2. <a href="#illinois">University of Illinois</a>
             3. <a href="#indiana">University of Indiana</a>
-        3. U.S. East
+        * U.S. East
             1. <a href="#brown">Brown University</a>
             2.  <a href="#cmu">Carnegie Mellon University</a>
             3.  <a href="#mit">Massachussetts Institute of Technology</a>
-
 # U.S. West
 ## <div id="caltech">[California Intitute of Technology](http://www.cns.caltech.edu/admissions/index.html) <a href="#toc"><sup>(^toc)</sup></a></div>
 Apply: 
