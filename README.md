@@ -9,6 +9,11 @@ A list of schools and researchers in computational neuroscience
 <font size=-1>
 <div id="toc">Table of Contents</div>
 
+* Europe:
+    * England:
+    * France:
+    * Romania
+    * Switzerland
 * North America
     * United States:
         * U.S. West 
@@ -29,6 +34,10 @@ A list of schools and researchers in computational neuroscience
             1. <a href="#brown">Brown University</a>
             2.  <a href="#cmu">Carnegie Mellon University</a>
             3.  <a href="#mit">Massachussetts Institute of Technology</a>
+* Scandanavia
+    * Finland
+    * Norway
+    * Sweden
 # U.S. West
 ## <div id="caltech">[California Intitute of Technology](http://www.cns.caltech.edu/admissions/index.html) <a href="#toc"><sup>(^toc)</sup></a></div>
 Apply: 
