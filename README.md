@@ -8,7 +8,7 @@ A list of schools and researchers in computational neuroscience, theoretical neu
 
 # Index
 <font size=-1>
-<div id="toc">Table of Contents</div>
+<div id="toc">Contents</div>
 
 * Europe:
     * England:
