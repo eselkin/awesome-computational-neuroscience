@@ -4,7 +4,8 @@
 <sub>To contribute, see [:pencil2: code of contribution](https://github.com/eselkin/awesome-computational-neuroscience/blob/master/contributing.md)
 </sub>
 
-A list of schools and researchers in computational neuroscience
+A list of schools and researchers in computational neuroscience, theoretical neuroscience, (and systems neuroscience)
+
 # Index
 <font size=-1>
 <div id="toc">Table of Contents</div>
