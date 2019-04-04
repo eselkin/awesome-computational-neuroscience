@@ -15,6 +15,7 @@ A list of schools and researchers in computational neuroscience, theoretical neu
     * France:
     * Romania
     * Switzerland
+    * Italy: <a href="#sissa-limbo">SISSA, Trieste </a>
 * North America
     * United States:
         * U.S. West 
@@ -39,6 +40,15 @@ A list of schools and researchers in computational neuroscience, theoretical neu
     * Finland
     * Norway
     * Sweden
+    
+    
+# Italy
+## <div id="sissa-limbo">[International School for Advanced Studies (SISSA), Trieste](https://phdcns.sissa.it/admission-procedure)
+| PI(Ph.D.s) | Research Areas | DOIs | +/=/- (likely related to more computational methods) |
+|---|---|---|---|
+| Treves, Alessandro | <sub>[Hippocampal Processing: The aim is to understand how the hippocampus contributes to memory, focusing on modelling coding strategies within each structure of the hippocampal formation (e.g. self-organization of grid representations), as well as interactions between different structures. Neural Basis of Language: The aim is to describe network behaviour that could subserve Language production. A class of reduced Potts models of large semantic associative networks, endowed with adaptation, naturally displays Latching dynamics, i.e. hopping from one attractor to the next. Such dynamics may be associated with a network capacity for infinite recursion, which is considered as the core of several higher cognitive functions.](https://people.sissa.it/~ale/limbo.html)| [Google](https://scholar.google.com/citations?hl=en&user=I2Y8X5AAAAAJ&view_op=list_works&sortby=pubdate) | + |
+
+   
 # U.S. West
 ## <div id="caltech">[California Intitute of Technology](http://www.cns.caltech.edu/admissions/index.html) <a href="#toc"><sup>(^toc)</sup></a></div>
 Apply: 
@@ -400,4 +410,3 @@ Kristan, William | <sub>[study vector calculations, coding/decoding, and control
 
 | PI(Ph.D.s) | Research Areas | DOIs | +/=/- (likely related to more computational methods) |
 |---|---|---|---|
-
