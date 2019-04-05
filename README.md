@@ -399,7 +399,7 @@ Kristan, William | <sub>[study vector calculations, coding/decoding, and control
 | Grover, Pulkit | <sub>[Our lab seeks to attain this understanding through a mix of thought and laboratory experiments, spanning examination of fundamental limits all the way to experiments. Current topics of interest include fundamental and practical understanding of circuits and systems for processing and communicating information; flow of information in neural systems and neural interfaces (and use of this understanding to design radically new neural interfaces); and understanding information and its use by exploring the union of control and communication.](http://users.ece.cmu.edu/~pgrover/)</sub> | [Google](https://scholar.google.com/citations?hl=en&user=hklOXvkAAAAJ&view_op=list_works&sortby=pubdate) | =? |
 
 ##  <div id="columbia">[Columbia University(http://www.cnbc.cmu.edu/training/graduate/computational-neuroscience/) <a href="#toc"><sup>(^toc)</sup></a></div>
-* [Center for Theoretical Neuroscience.](https://ctn.zuckermaninstitute.columbia.edu/apply
+* [Center for Theoretical Neuroscience.](https://ctn.zuckermaninstitute.columbia.edu/apply)
 
 | PI(Ph.D.s) | Research Areas | DOIs | +/=/- (likely related to more computational methods) |
 |---|---|---|---|
