@@ -412,7 +412,7 @@ Kristan, William | <sub>[study vector calculations, coding/decoding, and control
 | Paninski, Liam | <sub>[I want to build good models of the neural code and use these models to make predictions about mechanisms, decode spike trains, predict responses to novel stimuli, etc. I'm interested in statistical analysis at various levels of the neural code, from ensembles of simultaneously-recorded spike trains down to voltage fluctuations in individual dendritic compartments.](http://kavli.columbia.edu/member/paninski)</sub> | [Lab](http://www.stat.columbia.edu/~liam/cv/) | + |
 
 ##  <div id="jhu">[Johns Hopkins University](http://neuroscience.jhu.edu/research/area/3 <a href="#toc"><sup>(^toc)</sup></a></div>
-* [Solomon H. Snyder Department of Neuroscience].](http://neuroscience.jhu.edu/graduate/apply)
+* [Solomon H. Snyder Department of Neuroscience.](http://neuroscience.jhu.edu/graduate/apply)
 
 | PI(Ph.D.s) | Research Areas | DOIs | +/=/- (likely related to more computational methods) |
 |---|---|---|---|
