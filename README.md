@@ -413,6 +413,10 @@ Kristan, William | <sub>[study vector calculations, coding/decoding, and control
 
 ##  <div id="jhu">[Johns Hopkins University](http://neuroscience.jhu.edu/research/area/3 <a href="#toc"><sup>(^toc)</sup></a></div>
 * [Solomon H. Snyder Department of Neuroscience].](http://neuroscience.jhu.edu/graduate/apply)
+| PI(Ph.D.s) | Research Areas | DOIs | +/=/- (likely related to more computational methods) |
+|---|---|---|---|
+| Aponte, Yeka | <sub>[Our interest is to understand how genetically-identified cell types and their projections drive behaviors essential for survival. Using the mouse as our model system, we apply optogenetics and chemogenetics to manipulate neuronal circuits in awake, behaving mice. In addition, we use a combination of electrophysiology, two-photon fluorescence endomicroscopy, and behavioral assays to elucidate the neuronal basis of survival behaviors, such as feeding, and to determine how these neuronal circuits drive the rewarding and addictive nature of food intake.](http://neuroscience.jhu.edu/research/faculty/2)</sub> | [?]() | - |
+| Bastian, Amy | <sub>[My laboratory studies the movements of adults and children who have damage or disease of the central nervous system. We are interested in understanding the mechanisms of different types of movement disorders, as well as how and why different treatments improve movement. We are actively studying how new movements are "learned" and what the course of movement recovery following different types brain damage is.](http://neuroscience.jhu.edu/research/faculty/5)</sub> | [Google](https://scholar.google.com/citations?user=XuCieIUAAAAJ&hl=en) | - |
 
 ##  <div id="mit">Massachussetts Institute of Technology [BCS](https://bcs.mit.edu/academic-program/graduate/graduate-admissions) or [CBMM](https://cbmm.mit.edu/research/principal-investigators)<a href="#toc"><sup>(^toc)</sup></a></div>
 * [Brain + Cognitive Sciences, GRE Institution(3514), ](https://bcs.mit.edu/academic-program/graduate/graduate-admissions)
