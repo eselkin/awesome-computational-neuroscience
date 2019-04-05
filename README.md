@@ -36,7 +36,8 @@ A list of schools and researchers in computational neuroscience, theoretical neu
             2. <a href="#brown">Brown University</a>
             3. <a href="#cmu">Carnegie Mellon University</a>
             4. <a href="#columbia">Columbia University</a>
-            5. <a href="#mit">Massachussetts Institute of Technology</a>
+            5. <a href="#jhu">Johns Hopkins University</a>
+            6. <a href="#mit">Massachussetts Institute of Technology</a>
 * Scandanavia
     * Finland
     * Norway
@@ -409,6 +410,9 @@ Kristan, William | <sub>[study vector calculations, coding/decoding, and control
 | Fusi, Stefano | <sub>[He is using math to better understand how the brain itself computes information, especially as related to problem solving, reasoning and decision-making.](https://zuckermaninstitute.columbia.edu/stefano-fusi-phd)</sub> | [PubMed](https://www.ncbi.nlm.nih.gov/pubmed?term=%28Fusi%20S%5BAuthor%5D%29%20AND%20Columbia%5BAffiliation%5D) | - |
 | Litwin-Kumar, Ashok | <sub>[Learning algorithms and their neural implementations. How do organisms use their past experiences to adapt their current behavior? How do these neural algorithms compare to those studied in machine learning and artificial intelligence? We approach these questions by working closely with experimental collaborators and building well-constrained models of learning and synaptic plasticity.](http://lk.zuckermaninstitute.columbia.edu/)</sub> | [?]() | = |
 | Paninski, Liam | <sub>[I want to build good models of the neural code and use these models to make predictions about mechanisms, decode spike trains, predict responses to novel stimuli, etc. I'm interested in statistical analysis at various levels of the neural code, from ensembles of simultaneously-recorded spike trains down to voltage fluctuations in individual dendritic compartments.](http://kavli.columbia.edu/member/paninski)</sub> | [Lab](http://www.stat.columbia.edu/~liam/cv/) | + |
+
+##  <div id="jhu">[Johns Hopkins University](http://neuroscience.jhu.edu/research/area/3 <a href="#toc"><sup>(^toc)</sup></a></div>
+* [Solomon H. Snyder Department of Neuroscience].](http://neuroscience.jhu.edu/graduate/apply)
 
 ##  <div id="mit">Massachussetts Institute of Technology [BCS](https://bcs.mit.edu/academic-program/graduate/graduate-admissions) or [CBMM](https://cbmm.mit.edu/research/principal-investigators)<a href="#toc"><sup>(^toc)</sup></a></div>
 * [Brain + Cognitive Sciences, GRE Institution(3514), ](https://bcs.mit.edu/academic-program/graduate/graduate-admissions)
