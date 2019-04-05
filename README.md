@@ -33,7 +33,7 @@ A list of schools and researchers in computational neuroscience, theoretical neu
         * U.S. Central
             1. <a href="#chicago">University of Chicago</a>
             2. <a href="#illinois">University of Illinois</a>
-            3. <a href="#indiana">University of Indiana</a>
+            3. <a href="#indiana">Indiana University</a>
         * U.S. East
             1. <a href="#boston">Boston University</a>
             2. <a href="#brown">Brown University</a>
@@ -309,7 +309,7 @@ Kristan, William | <sub>[study vector calculations, coding/decoding, and control
 | Nelson, Mark E. | <sub>[Research in the lab is focused on active sensory acquisition. We seek to understand neural mechanisms and computational principles that animals use to actively acquire sensory information in complex, dynamic environments](https://neuroscience.illinois.edu/profile/m-nelson)</sub> | [Google](https://scholar.google.com/citations?hl=en&user=wr4PHUUAAAAJ&view_op=list_works&sortby=pubdate) | +  |
 | Vlasov, Yurii | <sub>[Behaviorial paradigms in virtual reality to study neural circuits in almost natural environment while mice are engaged in goal-directed behavior. Virtual reality systems allow full control over behaviorial tasks and quantitative measurements of resulting behavior.  Neuroanatomy leveraging new viral, genetic, and computational tools to provide insights into brain circuits functionality. Machine learning based analytical methods to extract dynamical patterns of neural activity that are correlated with animal behavior and choice](https://neuroscience.illinois.edu/profile/yvlasov)</sub> | [Lab](https://www.integratedneurotech.com/neuro-informatics) | + |
 
-##  <div id="indiana">[University of Indiana](https://neuroscience.indiana.edu/research/core-research-areas/cognitive-computational.html) <a href="#toc"><sup>(^toc)</sup></a></div>
+##  <div id="indiana">[Indiana University](https://neuroscience.indiana.edu/research/core-research-areas/cognitive-computational.html) <a href="#toc"><sup>(^toc)</sup></a></div>
 
 * []()
 
