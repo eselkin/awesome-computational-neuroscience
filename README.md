@@ -413,6 +413,7 @@ Kristan, William | <sub>[study vector calculations, coding/decoding, and control
 
 ##  <div id="jhu">[Johns Hopkins University](http://neuroscience.jhu.edu/research/area/3 <a href="#toc"><sup>(^toc)</sup></a></div>
 * [Solomon H. Snyder Department of Neuroscience].](http://neuroscience.jhu.edu/graduate/apply)
+
 | PI(Ph.D.s) | Research Areas | DOIs | +/=/- (likely related to more computational methods) |
 |---|---|---|---|
 | Aponte, Yeka | <sub>[Our interest is to understand how genetically-identified cell types and their projections drive behaviors essential for survival. Using the mouse as our model system, we apply optogenetics and chemogenetics to manipulate neuronal circuits in awake, behaving mice. In addition, we use a combination of electrophysiology, two-photon fluorescence endomicroscopy, and behavioral assays to elucidate the neuronal basis of survival behaviors, such as feeding, and to determine how these neuronal circuits drive the rewarding and addictive nature of food intake.](http://neuroscience.jhu.edu/research/faculty/2)</sub> | [?]() | - |
