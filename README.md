@@ -15,6 +15,9 @@ A list of schools and researchers in computational neuroscience, theoretical neu
     * France:
     * Romania
     * Switzerland
+    * Finland
+    * Norway
+    * Sweden
 * North America
     * United States:
         * U.S. West 
@@ -38,10 +41,7 @@ A list of schools and researchers in computational neuroscience, theoretical neu
             4. <a href="#columbia">Columbia University</a>
             5. <a href="#jhu">Johns Hopkins University</a>
             6. <a href="#mit">Massachussetts Institute of Technology</a>
-* Scandanavia
-    * Finland
-    * Norway
-    * Sweden
+
 # U.S. West
 ## <div id="caltech">[California Intitute of Technology](http://www.cns.caltech.edu/admissions/index.html) <a href="#toc"><sup>(^toc)</sup></a></div>
 Apply: 
