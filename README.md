@@ -22,7 +22,7 @@ A list of schools and researchers in computational neuroscience, theoretical neu
     * United States:
         * U.S. West 
             1. <a href="#caltech">California Institute of Technology</a>
-            2. <a href="#stanford">Stanford</a>
+            2. <a href="#stanford">Stanford University</a>
             3. <a href="#ucberkeley">University of California, Berkeley</a>
             4. <a href="#ucdavis">University of California, Davis</a>
             5. <a href="#ucsd">University of California, San Diego</a>
@@ -86,7 +86,7 @@ Apply:
 | Yue, Yisong | <sub>[Yisong Yue's research interests lie primarily in the theory and application of statistical machine learning. He is more generally interested in artificial intelligence. Currently, he is particularly interested in learning with humans in the loop, interactive learning systems, and spatiotemporal reasoning](http://www.yisongyue.com/)</sub> | [Lab](http://www.yisongyue.com/) | + |
 </sub>
 
-## <div id="stanford">[Stanford](https://neuroscience.stanford.edu/mbct/home) <a href="#toc"><sup>(^toc)</sup></a></div>
+## <div id="stanford">[Stanford University](https://neuroscience.stanford.edu/mbct/home) <a href="#toc"><sup>(^toc)</sup></a></div>
 Apply: 
 * [Neurosciences Ph.d., GREs no longer used.](https://med.stanford.edu/neurogradprogram/prospective_students.html)
 
