@@ -332,6 +332,18 @@ Kristan, William | <sub>[study vector calculations, coding/decoding, and control
 | Swanson, William H. | <sub>[?](https://optometry.iu.edu/people-directory/swanson-william.html)</sub> | [Google](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&as_ylo=2018&q=WH+Swanson&btnG=) | ? |
 
 # U.S. East
+##  <div id="boston">[Boston University](https://www.bu.edu/neuro/academics/graduate/curriculum/computational-neuroscience/) <a href="#toc"><sup>(^toc)</sup></a></div>
+* [Apply directly through the Graduate Portal for Neuroscience](https://www.bu.edu/neuro/apply/request-for-application-materials/)
+| PI(Ph.D.s) | Research Areas | DOIs | +/=/- (likely related to more computational methods) |
+|---|---|---|---|
+| Chandrasekaran, Chandramouli | <sub>[Understanding how the primate brain makes decisions based on sensory input and guides limb movement. Extensive evidence from stroke patients and physiological/lesion studies in humans suggest that a part of the brain called the dorsal premotor cortex is involved in selecting the appropriate limb movement on the basis of the sensory input.](http://sites.bu.edu/chandlab/)</sub> | [Google](https://scholar.google.com/citations?user=3Yeb98kAAAAJ&hl=en) | + |
+| Eden, Uri | <sub>[Developing mathematical and statistical methods to analyze neueral spiking activity by developing a methodological, statistical framework and applying them to point process observations.](http://www.bu.edu/math/people/faculty/probability-and-statistics/eden/)</sub> | [Google](https://scholar.google.com/citations?user=M8rzdnwAAAAJ&hl=en) | + |
+| Kon, Mark | <sub>[Quantum probability and information, bioinformatics, machine and statistical learning, mathematical physics, mathematical and computational neuroscience, complexity theory, and wavelets.](http://math.bu.edu/people/mkon/)</sub> | [Google](https://scholar.google.com/citations?user=wVPc21cAAAAJ&hl=en) | + |
+| Kopell, Nancy | <sub>[Understanding how the dynamical properties of local networks help to filter and transform the patterned input form other parts of the nervous system, to provide clues to the function of dynamics in the nervous system.](https://www.bu.edu/eng/profile/nancy-kopell-ph-d/)</sub> | [Google](https://scholar.google.com/citations?user=mbDmBBsAAAAJ&hl=en) | - |
+| Kramer, Mark | <sub>[His research focuses on interdisciplinary topics in mathematical neuroscience with particular emphasis on biophysical models of neural activity and data analysis techniques. He is currently interested in medical applications and networks in neuroscience.](https://www.bu.edu/math/people/faculty/mathematical-biology-and-neuroscience/kramer/)</sub> | [Google](https://scholar.google.com/citations?user=gn4NeQkAAAAJ&hl=en) | + |
+| Schwartz, Eric | <sub>[Computational neuroscience, computer vision and robotics, neuroanatomy, neural modeling, brain imaging, physiological bases of meditation.](https://www.bu.edu/neuro/profile/eric-l-schwartz/)</sub> | [Google](https://scholar.google.com/citations?user=KDDbruoAAAAJ&hl=en) | + |
+
+
 ##  <div id="brown">[Brown University](http://neuroscience.brown.edu/graduate/faculty/computational) <a href="#toc"><sup>(^toc)</sup></a></div>
 * [For all departments, apply generally to Brown Graduate school. GRE @ Institution(3094). For Brown University School of Public Health @ Institution(7765). Neuroscience @ Departmnent(0213). Applied Math ?. ](https://www.brown.edu/academics/gradschool/apply)
 * [For NIH/Neuroscience also fill out the NIH Partnership Application](https://www2.training.nih.gov/apps/publicForms/gpp/forms/login.aspx)
