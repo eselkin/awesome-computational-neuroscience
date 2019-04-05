@@ -32,9 +32,10 @@ A list of schools and researchers in computational neuroscience, theoretical neu
             2. <a href="#illinois">University of Illinois</a>
             3. <a href="#indiana">University of Indiana</a>
         * U.S. East
-            1. <a href="#brown">Brown University</a>
-            2.  <a href="#cmu">Carnegie Mellon University</a>
-            3.  <a href="#mit">Massachussetts Institute of Technology</a>
+            1. <a href="#boston">Boston University</a>
+            2.  <a href="#brown">Brown University</a>
+            3.  <a href="#cmu">Carnegie Mellon University</a>
+            4.  <a href="#mit">Massachussetts Institute of Technology</a>
 * Scandanavia
     * Finland
     * Norway
@@ -334,6 +335,7 @@ Kristan, William | <sub>[study vector calculations, coding/decoding, and control
 # U.S. East
 ##  <div id="boston">[Boston University](https://www.bu.edu/neuro/academics/graduate/curriculum/computational-neuroscience/) <a href="#toc"><sup>(^toc)</sup></a></div>
 * [Apply directly through the Graduate Portal for Neuroscience](https://www.bu.edu/neuro/apply/request-for-application-materials/)
+
 | PI(Ph.D.s) | Research Areas | DOIs | +/=/- (likely related to more computational methods) |
 |---|---|---|---|
 | Chandrasekaran, Chandramouli | <sub>[Understanding how the primate brain makes decisions based on sensory input and guides limb movement. Extensive evidence from stroke patients and physiological/lesion studies in humans suggest that a part of the brain called the dorsal premotor cortex is involved in selecting the appropriate limb movement on the basis of the sensory input.](http://sites.bu.edu/chandlab/)</sub> | [Google](https://scholar.google.com/citations?user=3Yeb98kAAAAJ&hl=en) | + |
