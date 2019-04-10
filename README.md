@@ -34,6 +34,7 @@ A list of schools and researchers in computational neuroscience, theoretical neu
             1. <a href="#chicago">University of Chicago</a>
             2. <a href="#illinois">University of Illinois</a>
             3. <a href="#indiana">Indiana University</a>
+            4. <a href="#minnesota"> University of Minnesota</a>
         * U.S. East
             1. <a href="#boston">Boston University</a>
             2. <a href="#brown">Brown University</a>
@@ -334,6 +335,15 @@ Kristan, William | <sub>[study vector calculations, coding/decoding, and control
 |  | <sub>[Cognition and modeling of cognition; Machine learning; Computational Statistics; Learning; Memory; Sensory coding; Information retrieval; Attention and automatism; Organization and structore of memory; Control processes in memory; Decision theory; Optimal decision making; Rationality and reasoning; Vision processing and visual features; Psychological representation, mathematical and computer models of the various content areas listed above.](https://psych.indiana.edu/directory/faculty/shiffrin-richard.html)</sub> | [Google](https://scholar.google.com/scholar?as_ylo=2018&q=Richard+Shiffrin&hl=en&as_sdt=0,5) | + |
 | Sporns, Olaf | <sub>[To make sense of the brain as a complex system we employ a broad range of analysis and modeling techniques, particularly methods coming from computational neuroscience, graph theory, time series analysis, complexity and information theory.](http://www.indiana.edu/~cortex/)</sub> | [Google](https://scholar.google.com/citations?hl=en&user=gzPWwdIAAAAJ&view_op=list_works&sortby=pubdate) | + |
 | Swanson, William H. | <sub>[?](https://optometry.iu.edu/people-directory/swanson-william.html)</sub> | [Google](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&as_ylo=2018&q=WH+Swanson&btnG=) | ? |
+
+
+##  <div id="minnesota">[University of Minnesota](http://www.neuroscience.umn.edu/areas-research/computational-neuroscience) <a href="#toc"><sup>(^toc)</sup></a></div>
+
+* [Neuroscience graduate admission](http://www.neuroscience.umn.edu/admissions/application-and-admissions-information)
+
+| PI(Ph.D.s) | Research Areas | DOIs | +/=/- (likely related to more computational methods) |
+|---|---|---|---|
+| Amirikian, Bagrat. | <sub>[My current research interests are focused on two related issues: (i) deciphering the local cortical circuitry from the spatial structure of axonal and dendritic arbors of pre- and post-synaptic cell-pairs and their distribution across cortical layers, and (ii) understanding how these local circuits give rise to functional modules, and how they shape the underlying cortical dynamics.](http://www.neuroscience.umn.edu/people/bagrat-amirikian-phd)</sub> | [PubMed]https://www.ncbi.nlm.nih.gov/pubmed/?term=bagrat+amirikian) | + |
 
 # U.S. East
 ##  <div id="boston">[Boston University](https://www.bu.edu/neuro/academics/graduate/curriculum/computational-neuroscience/) <a href="#toc"><sup>(^toc)</sup></a></div>
