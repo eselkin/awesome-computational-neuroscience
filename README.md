@@ -10,6 +10,15 @@ A list of schools and researchers in computational neuroscience, theoretical neu
 <font size=-1>
 <div id="toc">Contents</div>
 
+* Africa:
+   * Nigeria
+   * ...
+* Asia:
+   * China
+   * Japan
+   * ...
+* Australia:
+   * ... regions or schools
 * Europe:
     * England:
     * Finland
@@ -22,7 +31,7 @@ A list of schools and researchers in computational neuroscience, theoretical neu
     * Romania
     * Sweden
     * Switzerland
-* North America
+* North America:
     * United States:
         * U.S. West 
             1. <a href="#caltech">California Institute of Technology</a>
@@ -46,6 +55,10 @@ A list of schools and researchers in computational neuroscience, theoretical neu
             4. <a href="#columbia">Columbia University</a>
             5. <a href="#jhu">Johns Hopkins University</a>
             6. <a href="#mit">Massachussetts Institute of Technology</a>
+* South America:
+   * Brazil
+   * ...
+
 # Europe
 
 ## Germany
