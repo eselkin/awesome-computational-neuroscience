@@ -1,4 +1,4 @@
-# awesome-computational-neuroscience [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome Computational Neuroscience [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 <sub>To contribute, see [:pencil2: code of contribution](https://github.com/eselkin/awesome-computational-neuroscience/blob/master/contributing.md)
 </sub>
