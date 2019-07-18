@@ -4,17 +4,15 @@ To contribute, see [:pencil2: code of contribution](https://github.com/eselkin/a
 
 A list of schools and researchers in computational neuroscience, theoretical neuroscience, (and systems neuroscience)
 
-<div id="toc" />
-
 ## Contents
 
 - [Europe](#europe)
   - [Germany](#germany)
     - [INI (Ruhr-Universität Bochum, Institut für Neuroinformatik)](#ini)
-    - [Italy](#italy)
-      - [SISSA (Scuola Internazionale Superiore di Studi Avanzati - Trieste)](#sissa)
-    - [Norway](#norway)
-      - [NTNU Kavli Institute for Systems Neuroscience](#ntnu)
+  - [Italy](#italy)
+    - [SISSA (Scuola Internazionale Superiore di Studi Avanzati - Trieste)](#sissa)
+  - [Norway](#norway)
+    - [NTNU Kavli Institute for Systems Neuroscience](#ntnu)
 - [North America](#north-america)
   - [Canada](#canada)
     - [Ontario](#ontario)
