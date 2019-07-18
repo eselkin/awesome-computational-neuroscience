@@ -21,8 +21,8 @@ A list of schools and researchers in computational neuroscience, theoretical neu
     - [U.S. West](#u.s.-west)
       - [California Institute of Technology](#california-institute-of-technology)
       - [Stanford University](#stanford-university)
-      - [University of California, Berkeley](#university-of-california,-berkeley)
-      - [University of California, Davis](#university-of-california,-davis)
+      - [University of California, Berkeley](#university-of-california-berkeley)
+      - [University of California, Davis](#university-of-california-davis)
       - [University of California, San Diego](#university-of-california,-san-diego)
       - [University of California, Santa Barbara](#university-of-california,-santa-barbara)
       - [University of Oregon](#university-of-oregon)
@@ -262,7 +262,7 @@ A list of schools and researchers in computational neuroscience, theoretical neu
 
 </div>
 
-##### University of California, Davis
+##### University of California Davis
 
 - [Computational Neuroscience](https://neuroscience.ucdavis.edu/computational)
 - [Neuroscience, GRE: Institution(4834), Dept(None specified), GRE Subject test encouraged (...)](https://grad.neuroscience.ucdavis.edu/apply)
