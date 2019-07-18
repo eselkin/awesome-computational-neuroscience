@@ -2,7 +2,7 @@
 
 To contribute, see [:pencil2: code of contribution](https://github.com/eselkin/awesome-computational-neuroscience/blob/master/contributing.md)
 
-A list of schools and researchers in computational neuroscience, theoretical neuroscience, (and systems neuroscience)
+A list of schools and researchers in computational neuroscience, theoretical neuroscience, (and systems neuroscience). The aim of the list is to give a global perspective of researchers in the field and make it easier to apply to the listed institutions and also provides a reasonable way to find an advisor.
 
 ## Contents
 
