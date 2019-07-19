@@ -81,7 +81,7 @@ A list of schools and researchers in computational neuroscience, theoretical neu
 
 ### Norway
 
-##### _NTNU_
+#### NTNU
 
 - [Kavli Institute for Systems Neuroscience Center for Neural Computation @ Norwegian University of Science and Technology](https://www.ntnu.edu/kavli) 
 - [Apply to Ph.D. in Medicine and Health Sciences. Masters degree requirement. Admission is rolling. Applications to the department with the desired academic advisor.](https://www.ntnu.edu/studies/phmed)
