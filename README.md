@@ -29,7 +29,7 @@ A list of schools and researchers in computational neuroscience, theoretical neu
       - [University of Southern California](#university-of-southern-california)
       - [University of Texas, Austin](#university-of-texas-austin)
       - [University of Washington, Seattle](#university-of-washington-seattle)
-    - [U.S. Central](#u.s.-central)
+    - [U.S. Central](#us-central)
       - [University of Chicago](#university-of-chicago)
       - [University of Illinois](#university-of-illinois)
       - [University of Iowa](#university-of-iowa)
