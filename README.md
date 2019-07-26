@@ -2,7 +2,7 @@
 
 To contribute, see [:pencil2: code of contribution](https://github.com/eselkin/awesome-computational-neuroscience/blob/master/contributing.md)
 
-A list of schools and researchers in computational neuroscience, theoretical neuroscience, (and systems neuroscience). The aim of the list is to give a global perspective of researchers in the field, make it easier to apply to the listed institutions, and also provides a reasonable way to find an advisor.
+A list of schools and researchers in computational neuroscience, theoretical neuroscience, (and systems neuroscience). The aim of the list is to give a global perspective of researchers in the field, make it easier to apply to the listed institutions, and also provide a reasonable way to find an advisor.
 
 ## Contents
 
@@ -18,7 +18,7 @@ A list of schools and researchers in computational neuroscience, theoretical neu
     - [Ontario](#ontario)
       - [University of Waterloo](#university-of-waterloo)
   - [United States](#united-states)
-    - [U.S. West](#u.s.-west)
+    - [U.S. West](#us-west)
       - [California Institute of Technology](#california-institute-of-technology)
       - [Stanford University](#stanford-university)
       - [University of California, Berkeley](#university-of-california-berkeley)
@@ -35,7 +35,7 @@ A list of schools and researchers in computational neuroscience, theoretical neu
       - [University of Iowa](#university-of-iowa)
       - [Indiana University](#indiana-university)
       - [University of Minnesota](#university-of-minnesota)
-    - [U.S. East](#u.s.-east)
+    - [U.S. East](#us-east)
       - [Boston University](#boston-university)
       - [Brandeis University](#brandeis-university)
       - [Brown University](#brown-university)
