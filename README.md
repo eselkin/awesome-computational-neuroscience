@@ -6,44 +6,44 @@ A list of schools and researchers in computational neuroscience, theoretical neu
 
 ## Contents
 
--   [Europe](#europe)
-    -   [Germany](#germany)
-        -   [INI (Ruhr-Universität Bochum, Institut für Neuroinformatik)](#ini)
-    -   [Italy](#italy)
-        -   [SISSA (Scuola Internazionale Superiore di Studi Avanzati - Trieste)](#sissa)
-    -   [Norway](#norway)
-        -   [NTNU Kavli Institute for Systems Neuroscience](#ntnu)
--   [North America](#north-america)
-    -   [Canada](#canada)
-        -   [Ontario](#ontario)
-            -   [University of Waterloo](#university-of-waterloo)
-    -   [United States](#united-states)
-        -   [U.S. West](#us-west)
-            -   [California Institute of Technology](#california-institute-of-technology)
-            -   [Stanford University](#stanford-university)
-            -   [University of California, Berkeley](#university-of-california-berkeley)
-            -   [University of California, Davis](#university-of-california-davis)
-            -   [University of California, San Diego](#university-of-california-san-diego)
-            -   [University of California, Santa Barbara](#university-of-california-santa-barbara)
-            -   [University of Oregon](#university-of-oregon)
-            -   [University of Southern California](#university-of-southern-california)
-            -   [University of Texas, Austin](#university-of-texas-austin)
-            -   [University of Washington, Seattle](#university-of-washington-seattle)
-        -   [U.S. Central](#us-central)
-            -   [University of Chicago](#university-of-chicago)
-            -   [University of Illinois](#university-of-illinois)
-            -   [University of Iowa](#university-of-iowa)
-            -   [Indiana University](#indiana-university)
-            -   [University of Minnesota](#university-of-minnesota)
-        -   [U.S. East](#us-east)
-            -   [Boston University](#boston-university)
-            -   [Brandeis University](#brandeis-university)
-            -   [Brown University](#brown-university)
-            -   [Carnegie Mellon University and University of Pittsburgh](#carnegie-mellon-university-and-university-of-pittsburgh)
-            -   [Columbia University](#columbia-university)
-            -   [Johns Hopkins University](#johns-hopkins-university)
-            -   [Johns Hopkins University - Janelia Joint Graduate Program](#johns-hopkins-university---janelia-joint-graduate-program)
-            -   [Massachussetts Institute of Technology](#massachussetts-institute-of-technology)
+- [Europe](#europe)
+  - [Germany](#germany)
+    - [INI](#ini)
+  - [Italy](#italy)
+    - [SISSA](#sissa)
+  - [Norway](#norway)
+    - [NTNU](#ntnu)
+- [North America](#north-america)
+  - [Canada](#canada)
+    - [Ontario](#ontario)
+      - [University of Waterloo](#university-of-waterloo)
+  - [United States](#united-states)
+    - [U.S. West](#us-west)
+      - [California Institute of Technology](#california-institute-of-technology)
+      - [Stanford University](#stanford-university)
+      - [University of California, Berkeley](#university-of-california-berkeley)
+      - [University of California, Davis](#university-of-california-davis)
+      - [University of California San Diego](#university-of-california-san-diego)
+      - [University of California, Santa Barbara](#university-of-california-santa-barbara)
+      - [University of Oregon](#university-of-oregon)
+      - [University of Southern California](#university-of-southern-california)
+      - [University of Texas, Austin](#university-of-texas-austin)
+      - [University of Washington, Seattle](#university-of-washington-seattle)
+    - [U.S. Central](#us-central)
+      - [University of Chicago](#university-of-chicago)
+      - [University of Illinois](#university-of-illinois)
+      - [University of Iowa](#university-of-iowa)
+      - [Indiana University](#indiana-university)
+      - [University of Minnesota](#university-of-minnesota)
+    - [U.S. East](#us-east)
+      - [Boston University](#boston-university)
+      - [Brandeis University](#brandeis-university)
+      - [Brown University](#brown-university)
+      - [Carnegie Mellon University and University of Pittsburgh](#carnegie-mellon-university-and-university-of-pittsburgh)
+      - [Columbia University](#columbia-university)
+      - [Johns Hopkins University](#johns-hopkins-university)
+      - [Johns Hopkins University - Janelia Joint Graduate Program](#johns-hopkins-university---janelia-joint-graduate-program)
+      - [Massachussetts Institute of Technology](#massachussetts-institute-of-technology)
 
 ## Europe
 
@@ -51,7 +51,7 @@ A list of schools and researchers in computational neuroscience, theoretical neu
 
 #### INI
 
--   [Ruhr-Universität Bochum, Institut für Neuroinformatik (INI)](https://www.ini.rub.de/research/groups/computational_neuroscience/)
+- [Ruhr-Universität Bochum, Institut für Neuroinformatik (INI)](https://www.ini.rub.de/research/groups/computational_neuroscience/)
 
 [<span style="font-size: 0.75rem;">:arrow_up:</span>](#contents)
 
@@ -67,7 +67,7 @@ A list of schools and researchers in computational neuroscience, theoretical neu
 
 #### SISSA
 
--   [International School for Advanced Studies (SISSA), Trieste](https://phdcns.sissa.it/admission-procedure) 
+- [International School for Advanced Studies (SISSA), Trieste](https://phdcns.sissa.it/admission-procedure)
 
 [<span style="font-size: 0.75rem;">:arrow_up:</span>](#contents)
 
@@ -83,8 +83,8 @@ A list of schools and researchers in computational neuroscience, theoretical neu
 
 #### NTNU
 
--   [Kavli Institute for Systems Neuroscience Center for Neural Computation @ Norwegian University of Science and Technology](https://www.ntnu.edu/kavli) 
--   [Apply to Ph.D. in Medicine and Health Sciences. Masters degree requirement. Admission is rolling. Applications to the department with the desired academic advisor.](https://www.ntnu.edu/studies/phmed)
+- [Kavli Institute for Systems Neuroscience Center for Neural Computation @ Norwegian University of Science and Technology](https://www.ntnu.edu/kavli)
+- [Apply to Ph.D. in Medicine and Health Sciences. Masters degree requirement. Admission is rolling. Applications to the department with the desired academic advisor.](https://www.ntnu.edu/studies/phmed)
 
 [<span style="font-size: 0.75rem;">:arrow_up:</span>](#contents)
 
@@ -98,7 +98,7 @@ A list of schools and researchers in computational neuroscience, theoretical neu
 | Kentros, Clifford              | Kavli Institute for Systems Neuroscience | [The Kentros laboratory uses mouse molecular genetic techniques to address the neural circuitry underlying learning and memory. Combining the anatomical specificity of mouse molecular genetics with in vivo recordings from awake, behaving animals gives an edge to analyzing the functional circuitry of memory.](https://www.kentroslab.com/research)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 | [Google](https://scholar.google.com/citations?hl=en&user=YtdZeFgAAAAJ&view_op=list_works&sortby=pubdate) | +                   |
 | Roudi, Yasser                  | Kavli Institute for Systems Neuroscience | [Roudi’s team uses mathematical tools from the field of theoretical physics to analyse big datasets, to develop models that draw out neural mechanisms in big datasets, and to identify and describe universal principles in biological systems.](https://www.ntnu.edu/kavli/roudi-group#/view/about)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      | [Lab](https://www.spinorkavli.org/)                                                                      | +                   |
 | Whitlock, Jonathan             | Kavli Institute for Systems Neuroscience | [The Whitlock group uses several tools to tackle their research questions: (1) a tracking and visualization software (developed in-house), which follows and records a rat’s movement through three-dimensional space and (2) electrophysiological recordings of the rat’s brain while it moves through that three-dimensional space. These two pieces of information (behavior and neural activity) are then analyzed using statistical methods. The parallel anatomical work in mice used tracers and markers to map out the circuits of the PPC.](https://www.whitlocklab.org/)                                                                                                                                                                                                                                                                                                         | [Google](https://scholar.google.com/citations?hl=en&user=OFVqZ6IAAAAJ&view_op=list_works&sortby=pubdate) | +                   |
-| Yakse, Emre                    | Kavli Institute for Systems Neuroscience | [The Yaksi group uses two-photon microscopy, electrophysiology, genetic and applied mathematical tools  to measure and analyze neural activity across the whole brain of awake, behaving juvenile zebrafish in naturalistic and virtual reality environments.](https://yaksilab.com)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       | [Lab](https://yaksilab.com/publications/)                                                                | +                   |
+| Yakse, Emre                    | Kavli Institute for Systems Neuroscience | [The Yaksi group uses two-photon microscopy, electrophysiology, genetic and applied mathematical tools to measure and analyze neural activity across the whole brain of awake, behaving juvenile zebrafish in naturalistic and virtual reality environments.](https://yaksilab.com)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        | [Lab](https://yaksilab.com/publications/)                                                                | +                   |
 | Doeller, Christian             | Medicine and Neuroscience                | [The Doeller and Kaplan group uses neuroimaging techniques such as functional magnetic resonance imaging (fMRI) and magnetoencephalography (MEG) to investigate brain systems that support learning, memory, and decision making. The former technique boasts relatively good “spatial resolution” (the ability to detect where a signal is coming from) while the latter boasts good “temporal resolution” (the ability to detect when a signal occurs). By combining this data with electrophysiological recordings from rodents, the team is able to paint a more comprehensive picture of the link between entorhinal brain signals and general cognition. ... Our framework is concerned with the key idea that this navigation system in the brain—potentially as a result of evolution—provides a fundamental neural metric for human cognition.](https://doellerlab.com/research/) | [Lab](https://doellerlab.com/publications/)                                                              | +?                  |
 | Kaplan, Raphael Samuel Matthew | Kavli Institute for Systems Neuroscience | [See Doeller lab](https://doellerlab.com/research/)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        | [Google](https://scholar.google.com/citations?hl=en&user=NHhnjsIAAAAJ&view_op=list_works&sortby=pubdate) | +?                  |
 
@@ -112,10 +112,10 @@ A list of schools and researchers in computational neuroscience, theoretical neu
 
 ##### University of Waterloo
 
--   [Theoretical Neuroscience](https://uwaterloo.ca/centre-for-theoretical-neuroscience/graduate-students/apply-admissions) 
--   Apply: Apply to established graduate department (e.g. <a href="https://uwaterloo.ca/graduate-studies-academic-calendar/mathematics/department-applied-mathematics/doctor-philosophy-phd-applied-mathematics#admission_requirements
+- [Theoretical Neuroscience](https://uwaterloo.ca/centre-for-theoretical-neuroscience/graduate-students/apply-admissions)
+- Apply: Apply to established graduate department (e.g. <a href="https://uwaterloo.ca/graduate-studies-academic-calendar/mathematics/department-applied-mathematics/doctor-philosophy-phd-applied-mathematics#admission_requirements
         ">Applied Math</a>, <a href="https://uwaterloo.ca/graduate-studies-academic-calendar/mathematics/david-r-cheriton-school-computer-science/doctor-philosophy-phd-computer-science">Computer science</a>, <a href="https://uwaterloo.ca/graduate-studies-academic-calendar/arts/department-psychology/doctor-philosophy-phd-psychology">Psychology</a>, <a href="https://uwaterloo.ca/graduate-studies-academic-calendar/mathematics/department-statistics-and-actuarial-science/doctor-philosophy-phd-statistics">Statistics</a>)
--   For CS a GRE is required if you have not completed a Bachelor's degree in a North American university with English as a primary language.
+- For CS a GRE is required if you have not completed a Bachelor's degree in a North American university with English as a primary language.
 
 [<span style="font-size: 0.75rem;">:arrow_up:</span>](#contents)
 
@@ -143,8 +143,8 @@ A list of schools and researchers in computational neuroscience, theoretical neu
 
 ##### California Institute of Technology
 
--   [CNS](http://www.cns.caltech.edu/admissions/index.html)
--   [General Graduate application, multidisciplinary program.](http://www.gradoffice.caltech.edu/admissions/applyonline)
+- [CNS](http://www.cns.caltech.edu/admissions/index.html)
+- [General Graduate application, multidisciplinary program.](http://www.gradoffice.caltech.edu/admissions/applyonline)
 
 [<span style="font-size: 0.75rem;">:arrow_up:</span>](#contents)
 
@@ -191,8 +191,8 @@ A list of schools and researchers in computational neuroscience, theoretical neu
 
 ##### Stanford University
 
--   [MBCT](https://neuroscience.stanford.edu/mbct/home)
--   [Neurosciences Ph.d., GREs no longer used.](https://med.stanford.edu/neurogradprogram/prospective_students.html)
+- [MBCT](https://neuroscience.stanford.edu/mbct/home)
+- [Neurosciences Ph.d., GREs no longer used.](https://med.stanford.edu/neurogradprogram/prospective_students.html)
 
 [<span style="font-size: 0.75rem;">:arrow_up:</span>](#contents)
 
@@ -233,10 +233,10 @@ A list of schools and researchers in computational neuroscience, theoretical neu
 
 ##### University of California, Berkeley
 
--   [Theoretical Neuroscience](https://redwood.berkeley.edu/people/)
--   [Neuroscience Ph.D., GRE: Institution: 4833, Department: 0213](http://neuroscience.berkeley.edu/ph-d-program/)
--   [Vision Science Ph.D., Apply, GRE: Institution: 4833, Department: 0611](https://vision.berkeley.edu/admissions)
--   [Electrical Engineering and Computer Sciences, Ph.D., GRE: Institution(4833), Department(Not required)](https://eecs.berkeley.edu/academics/graduate/research-programs/admissions)
+- [Theoretical Neuroscience](https://redwood.berkeley.edu/people/)
+- [Neuroscience Ph.D., GRE: Institution: 4833, Department: 0213](http://neuroscience.berkeley.edu/ph-d-program/)
+- [Vision Science Ph.D., Apply, GRE: Institution: 4833, Department: 0611](https://vision.berkeley.edu/admissions)
+- [Electrical Engineering and Computer Sciences, Ph.D., GRE: Institution(4833), Department(Not required)](https://eecs.berkeley.edu/academics/graduate/research-programs/admissions)
 
 [<span style="font-size: 0.75rem;">:arrow_up:</span>](#contents)
 
@@ -263,8 +263,8 @@ A list of schools and researchers in computational neuroscience, theoretical neu
 
 ##### University of California, Davis
 
--   [Computational Neuroscience](https://neuroscience.ucdavis.edu/computational)
--   [Neuroscience, GRE: Institution(4834), Dept(None specified), GRE Subject test encouraged (...)](https://grad.neuroscience.ucdavis.edu/apply)
+- [Computational Neuroscience](https://neuroscience.ucdavis.edu/computational)
+- [Neuroscience, GRE: Institution(4834), Dept(None specified), GRE Subject test encouraged (...)](https://grad.neuroscience.ucdavis.edu/apply)
 
 [<span style="font-size: 0.75rem;">:arrow_up:</span>](#contents)
 
@@ -284,7 +284,7 @@ A list of schools and researchers in computational neuroscience, theoretical neu
 
 ##### University of California San Diego
 
--   [Neurograd program, GRE: Institution(4836) Department(0213), Specify interest in Computational Neuroscience specialization](https://medschool.ucsd.edu/education/neurograd/prospective-students/Pages/default.aspx)
+- [Neurograd program, GRE: Institution(4836) Department(0213), Specify interest in Computational Neuroscience specialization](https://medschool.ucsd.edu/education/neurograd/prospective-students/Pages/default.aspx)
 
 [<span style="font-size: 0.75rem;">:arrow_up:</span>](#contents)
 
@@ -323,8 +323,8 @@ A list of schools and researchers in computational neuroscience, theoretical neu
 
 ##### University of California, Santa Barbara
 
--   [DYNS](https://www.dyns.ucsb.edu/people)
--   [Graduate School application. Regardless of degree, preference will be given to applicants with undergraduate coursework in biology, chemistry, physics, and mathematics](https://www.graddiv.ucsb.edu/eapp/Login.aspx)
+- [DYNS](https://www.dyns.ucsb.edu/people)
+- [Graduate School application. Regardless of degree, preference will be given to applicants with undergraduate coursework in biology, chemistry, physics, and mathematics](https://www.graddiv.ucsb.edu/eapp/Login.aspx)
 
 [<span style="font-size: 0.75rem;">:arrow_up:</span>](#contents)
 
@@ -357,7 +357,7 @@ A list of schools and researchers in computational neuroscience, theoretical neu
 
 ##### University of Oregon
 
--   [Computational and Systems Neuroscience](http://ion.uoregon.edu/content/cognitive-computational-and-systems-neuroscience-training-program)
+- [Computational and Systems Neuroscience](http://ion.uoregon.edu/content/cognitive-computational-and-systems-neuroscience-training-program)
 
 [<span style="font-size: 0.75rem;">:arrow_up:</span>](#contents)
 
@@ -382,7 +382,7 @@ A list of schools and researchers in computational neuroscience, theoretical neu
 
 ##### University of Southern California
 
--   [USC Neuroscience Graduate Program. GRE Average: 155(Verbal), 167(Quant), Institution(4852), Department(0213)](https://ngp.usc.edu/admissions/)
+- [USC Neuroscience Graduate Program. GRE Average: 155(Verbal), 167(Quant), Institution(4852), Department(0213)](https://ngp.usc.edu/admissions/)
 
 [<span style="font-size: 0.75rem;">:arrow_up:</span>](#contents)
 
@@ -415,7 +415,7 @@ A list of schools and researchers in computational neuroscience, theoretical neu
 
 ##### University of Texas, Austin
 
--   [Apply through: GRE: Institutional(6882), Mathematics (GRE: self report on application), Computer Science (No minimum, but high quant), Physics, ECE, Neuroscience, Psychology...](http://ctcn.utexas.edu/apply-students/)
+- [Apply through: GRE: Institutional(6882), Mathematics (GRE: self report on application), Computer Science (No minimum, but high quant), Physics, ECE, Neuroscience, Psychology...](http://ctcn.utexas.edu/apply-students/)
 
 [<span style="font-size: 0.75rem;">:arrow_up:</span>](#contents)
 
@@ -435,8 +435,8 @@ A list of schools and researchers in computational neuroscience, theoretical neu
 
 ##### University of Washington, Seattle
 
--   [Computational Neuroscience Center](https://cneuro-web01.s.uw.edu/training-programs/graduate-training-program/)
--   Apply to Computer Science and Engineering, Applied Mathematics, Neurobiology and Behavior, Psychology, Physics...
+- [Computational Neuroscience Center](https://cneuro-web01.s.uw.edu/training-programs/graduate-training-program/)
+- Apply to Computer Science and Engineering, Applied Mathematics, Neurobiology and Behavior, Psychology, Physics...
 
 [<span style="font-size: 0.75rem;">:arrow_up:</span>](#contents)
 
@@ -466,8 +466,8 @@ A list of schools and researchers in computational neuroscience, theoretical neu
 
 ##### University of Chicago
 
--   [Neuroscience](https://neuroscience.uchicago.edu/faculty)
--   [Apply to biosciences. Optional GRE @ Institution(1832).](https://biosciences.uchicago.edu/admissions/how-to-apply)
+- [Neuroscience](https://neuroscience.uchicago.edu/faculty)
+- [Apply to biosciences. Optional GRE @ Institution(1832).](https://biosciences.uchicago.edu/admissions/how-to-apply)
 
 [<span style="font-size: 0.75rem;">:arrow_up:</span>](#contents)
 
@@ -488,15 +488,14 @@ A list of schools and researchers in computational neuroscience, theoretical neu
 | Maunsell, John           | [Our research is aimed at understanding how neuronal signals in visual cerebral cortex generate perceptions and guide behavior. Our approach is to record from individual neurons in trained, behaving monkeys and mice while they perform visual tasks.](https://neurobiology.uchicago.edu/page/john-maunsell)                                                                                                                                                                                                                                                                                                                                                                                                                                  | [Google](https://scholar.google.com/citations?hl=en&user=4U1F6tcAAAAJ&view_op=list_works&sortby=pubdate) | =?                  |
 | Palmer, Stephanie        | [I study how populations of neurons collectively encode information present in their inputs and how they perform computations on these signals. The brain performs several classes of computation including signal comparison, prediction, error correction, and learning. To investigate these phenomena, I work with experimentalists on a variety of systems: predictive coding in the retina and visual cortex of the rodent, motion coding in area MT, and temporal coding in the zebra finch song system.](https://pondside.uchicago.edu/oba/faculty/palmer_s.html)                                                                                                                                                                        | [Google](https://scholar.google.com/citations?user=0gtvj54AAAAJ&hl=en)                                   | +                   |
 | Sheffield, Mark          | [The main goal of our lab is to establish an empirically well-supported unifying model of the neurobiology of complex memory formation and recall from the level of synapses and dendrites to large-scale ensembles of neurons that is based on data obtained from behaving animals engaged in memory-related tasks.](https://sheffieldlab.org/)                                                                                                                                                                                                                                                                                                                                                                                                 | [Lab](https://sheffieldlab.org/publications/)                                                            | =?                  |
-| Towle, Leo               | [Mapping Human Cortical Function, Merging Functional and Structural Information, Epileptic Seizures?](https://neurology.uchicago.edu/page/v-leo-towle-phd)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |                                                                                                          | =?                  |
 | van Drongelen, Wim       | [Epilepsy is a serious neurological disease that affects a large population. To understand the mechanisms underlying this disease we apply an interdisciplinary approach that includes clinical studies from patients with epilepsy, experimental models, computer simulations and mathematical modeling.](https://epilepsylab.uchicago.edu/)                                                                                                                                                                                                                                                                                                                                                                                                    | [Lab](https://epilepsylab.uchicago.edu/page/publications)                                                | +                   |
 
 </div>
 
 ##### University of Illinois
 
--   [Computational Neuroscience](https://neuroscience.illinois.edu/research/research-overview/computational-neuroscience)
--   [No school or department code for GRE, but GRE required for Neuroscience admission.](https://neuroscience.illinois.edu/admissions/graduate-school-application-0)
+- [Computational Neuroscience](https://neuroscience.illinois.edu/research/research-overview/computational-neuroscience)
+- [No school or department code for GRE, but GRE required for Neuroscience admission.](https://neuroscience.illinois.edu/admissions/graduate-school-application-0)
 
 [<span style="font-size: 0.75rem;">:arrow_up:</span>](#contents)
 
@@ -516,8 +515,8 @@ A list of schools and researchers in computational neuroscience, theoretical neu
 
 ##### University of Iowa
 
--   [Neuroscience Ph.D.](https://grad.admissions.uiowa.edu/academics/neuroscience-phd) 
--   [Apply to joint graduate program in neuroscience. No GRE requirement?](https://neuroscience.grad.uiowa.edu/prospective-students)
+- [Neuroscience Ph.D.](https://grad.admissions.uiowa.edu/academics/neuroscience-phd)
+- [Apply to joint graduate program in neuroscience. No GRE requirement?](https://neuroscience.grad.uiowa.edu/prospective-students)
 
 [<span style="font-size: 0.75rem;">:arrow_up:</span>](#contents)
 
@@ -542,7 +541,7 @@ A list of schools and researchers in computational neuroscience, theoretical neu
 | Koylu, Caglar          | Geographical and Sustainability Sciences, Geoinformatics                                                                       | [GIScience, spatial data science, information visualization, human-computer interaction, mobility and geo-social networks](https://clas.uiowa.edu/geography/people/caglar-koylu)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              | [Google](https://scholar.google.com/citations?hl=en&user=sYeUuDQAAAAJ&view_op=list_works&sortby=pubdate)                        | =?                           |
 | Magnotta, Vincent A.   | Radiology, Psychiatry, Biomedical Engineering                                                                                  | [I am interested in the development of novel imaging approaches and analysis strategies to better understand psychiatric and neurological brain disorders. My work in image acquisition focuses on diffusion tensor imaging and chemical shift imaging. I am also working on methods to automate the analysis of brain morphology and incorporating these tools into diffusion tensor and chemical shift imaging.](https://medicine.uiowa.edu/radiology/profile/vincent-magnotta)                                                                                                                                                                                                                                                                                                                                                                                             | [Google](https://scholar.google.com/citations?hl=en&user=EguIOioAAAAJ&view_op=list_works&sortby=pubdate)                        | +?                           |
 | Michaelson, Jacob J.   | Psychiatry, Neuroscience, Computational and Molecular Psychiatry, Communication Sciences and Disorders, Biomedical Engineering | [We are interested in the use of computing to improve the understanding, diagnosis, monitoring, and treatment of neuropsychiatric and neurodevelopmental conditions. To do this, we build predictive models that draw on a wide variety of data types: including genomics, medical records, imaging, body movement, and standardized test scores, among many others. We have extramurally-supported research programs involving computational methodology, human subjects research, and animal models.](https://michaelson.lab.uiowa.edu/)                                                                                                                                                                                                                                                                                                                                    | [Lab](https://michaelson.lab.uiowa.edu/publications)                                                                            | +                            |
-| Nopoulos, Peggy C.     | Psychiatry, Neurology, Pediatrics                                                                                              | [The Peg Nopoulos Laboratory conducts research that is designed to evaluate brain development and its relationship to long term behavioral, cognitive, and emotional outcome.  Our studies investigate the impact of various medical conditions throughout the lifespan – from shortly after birth to mature adulthood.  In particular, much of our work focuses on inherited brain disease with adult onset.](https://nopoulos.lab.uiowa.edu/)                                                                                                                                                                                                                                                                                                                                                                                                                               | [Google](https://scholar.google.com/scholar?as_ylo=2019&q=Peggy+C.+Nopoulos&hl=en&as_sdt=0,5)                                   | -?                           |
+| Nopoulos, Peggy C.     | Psychiatry, Neurology, Pediatrics                                                                                              | [The Peg Nopoulos Laboratory conducts research that is designed to evaluate brain development and its relationship to long term behavioral, cognitive, and emotional outcome. Our studies investigate the impact of various medical conditions throughout the lifespan – from shortly after birth to mature adulthood. In particular, much of our work focuses on inherited brain disease with adult onset.](https://nopoulos.lab.uiowa.edu/)                                                                                                                                                                                                                                                                                                                                                                                                                                 | [Google](https://scholar.google.com/scholar?as_ylo=2019&q=Peggy+C.+Nopoulos&hl=en&as_sdt=0,5)                                   | -?                           |
 | O'Leary, Daniel        | Psychiatry, Psychology                                                                                                         | [Current research explores the neural basis of the genetic vulnerability of children (ages 13 - 18 of alcoholics). Another project assesses the effects of marijuana on brain blood flow and cognition. Both research areas involve purely behavioral assessment of cognitive functions such as attention and memory, as well as neuroimaging studies performed during cognitive task performance. We are assessing blood flow with positron emission tomography (PET) during cognitive task performance in schizophrenic patients, normal volunteers, and marijuana users.](https://medicine.uiowa.edu/psychiatry/profile/daniel-oleary)                                                                                                                                                                                                                                     | [Google](https://scholar.google.com/citations?hl=en&user=bVmokLUAAAAJ&view_op=list_works&sortby=pubdate)                        | -?                           |
 | Parker, Krystal L.     | Psychiatry                                                                                                                     | [My long-term goal is to understand the cerebellar contribution to cognitive and affective processes. In pursuit of this goal, I combine neurophysiology, pharmacology and optogenetics in animals performing behavioral tasks to dissect cerebellar neural circuitry. I study the potential for cerebellar stimulation to rescue cognitive impairments and mood in humans using EEG but also in animals with pharmacologically- and genetically-induced phenotypes of disease. My training in psychology, systems neurophysiology, and clinical psychiatry allows me to target the cerebellum for novel treatments of diseases involving cognitive and affective dysfunction.](https://parker.lab.uiowa.edu/)                                                                                                                                                                | [Google](https://scholar.google.com/citations?hl=en&user=KlAGhpIAAAAJ&view_op=list_works&sortby=pubdate)                        | +                            |
 | Paulsen, Jane          | Psychiatry, Neurology, Psychological & Brain Sciences                                                                          | [Huntington’s disease, Alzheimer’s disease, schizophrenia, dementia, psychoses, tardive dyskinesia, neuropsychological features and correlates of the above.](https://psychology.uiowa.edu/people/jane-paulsen)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               | [Google](https://scholar.google.com/citations?hl=en&user=mzO_jcQAAAAJ&view_op=list_works&sortby=pubdate)                        | =?                           |
@@ -550,7 +549,7 @@ A list of schools and researchers in computational neuroscience, theoretical neu
 | Shinozaki, Gen         | Psychiatry, Neurosurgery                                                                                                       | [The Shinozaki Laboratory studies the molecular influence of environmental factors such as trauma, stress, and inflammation on individual susceptibility to psychiatric conditions including major depressive disorder (MDD), post-traumatic stress disorder (PTSD), and delirium using epigenetic/genetic approaches as well as a medical engineering approach through device development and machine learning.](https://shinozaki.lab.uiowa.edu/)                                                                                                                                                                                                                                                                                                                                                                                                                           | [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/?term=Shinozaki+G)                                                                 | +                            |
 | Sonka, Milan           | Electrical and Computer Engineering                                                                                            | [Research interests include medical imaging, image segmentation, and automated knowledge-based image analysis in a variety of applications and in various image modalities.](http://user.engineering.uiowa.edu/~sonka/research.php)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           | [Google](https://scholar.google.co.in/citations?hl=en&user=ve3AkSIAAAAJ&view_op=list_works&sortby=pubdate)                      | +                            |
 | Srinivasan, Padmini    | Computer Science                                                                                                               | [Information Retrieval & NLP - Text Mining - Web Mining - Biomedical Text Mining - Privacy/Security & Censorship - Social Media Analytics (Politics, Health Beliefs) - Crowdsourcing & Games](http://homepage.cs.uiowa.edu/~psriniva/newsite/index.html)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      | [Lab](http://homepage.cs.uiowa.edu/~psriniva/newsite/papers-page.html)                                                          | -?                           |
-| Stewart, David         | Mathematics                                                                                                                    | [Numerical Analysis, Mathematical Modeling, Scientific Computing, Optimization,  Optimal Control](http://homepage.divms.uiowa.edu/~dstewart/index.html)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       | [Lab](http://homepage.divms.uiowa.edu/~dstewart/des_publns.html)                                                                | -?                           |
+| Stewart, David         | Mathematics                                                                                                                    | [Numerical Analysis, Mathematical Modeling, Scientific Computing, Optimization, Optimal Control](http://homepage.divms.uiowa.edu/~dstewart/index.html)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        | [Lab](http://homepage.divms.uiowa.edu/~dstewart/des_publns.html)                                                                | -?                           |
 | Strathearn, Lane       | Behavioral Pediatrics                                                                                                          | [My lab aims to explore the neurobiology of early attachment relationships using functional MRI and other neurophysiological and endocrine measures. This includes projects examining brain and behavioral responses of drug addicted mothers, and how intranasal oxytocin may impact maternal responses. This research has been funded by the National Institute of Child Health and Human Development and the National Institute of Drug Abuse. We have also published on the effects of intranasal oxytocin on children and adolescents with autism.](https://medicine.uiowa.edu/pediatrics/profile/lane-strathearn)                                                                                                                                                                                                                                                       | [NIH](https://www.ncbi.nlm.nih.gov/sites/myncbi/lane.strathearn.1/bibliography/41163872/public/?sort=date&direction=descending) | -?                           |
 | Vaidya, Jatin          | Psychiatry                                                                                                                     | [The laboratory uses state-of-the-art functional imaging tools such as functional magnetic resonance imaging (fMRI) and positron emission tomography (PET) as well as advanced structural imaging protocols (e.g., diffusion weighted imaging) in conjunction with neuropsychological tests and personality assessments.](https://cognitive-brain.lab.uiowa.edu/)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             | [Google](https://scholar.google.co.in/scholar?as_ylo=2019&q=Jatin+Vaidya&hl=en&as_sdt=0,5)                                      | -?                           |
 | Wemmie, John           | Psychiatry, Molecular Physiology and Biophysics, Neurosurgery                                                                  | [John Wemmie, MD, PhD, professor in the Department of Psychiatry at the University of Iowa, is interested in the role of brain pH and acid-sensing ion channels in brain function and behavior. This work has led to the discovery of critical roles for brain pH in synaptic plasticity, anxiety, and depression-related behaviors in mice. Current projects include investigating the synaptic mechanisms for acid-sensing ion channel action and also translating these discoveries to human behavior and brain function. For example, his laboratory is using non-invasive pH-sensitive magnetic resonance imaging to investigate the roles of brain pH in psychiatric illnesses such as panic disorder and bipolar affective disorder.](https://wemmie.lab.uiowa.edu/)                                                                                                   | [Google](https://scholar.google.com/citations?hl=en&user=HEr04BQAAAAJ&view_op=list_works&sortby=pubdate)                        | =?                           |
@@ -560,7 +559,7 @@ A list of schools and researchers in computational neuroscience, theoretical neu
 
 ##### Indiana University
 
-[Cognitive and Computational Neuroscience](https://neuroscience.indiana.edu/research/core-research-areas/cognitive-computational.html) 
+[Cognitive and Computational Neuroscience](https://neuroscience.indiana.edu/research/core-research-areas/cognitive-computational.html)
 
 [<span style="font-size: 0.75rem;">:arrow_up:</span>](#contents)
 
@@ -590,8 +589,8 @@ A list of schools and researchers in computational neuroscience, theoretical neu
 
 ##### University of Minnesota
 
--   [Computational Neuroscience](http://www.neuroscience.umn.edu/areas-research/computational-neuroscience) 
--   [Neuroscience graduate admission](http://www.neuroscience.umn.edu/admissions/application-and-admissions-information)
+- [Computational Neuroscience](http://www.neuroscience.umn.edu/areas-research/computational-neuroscience)
+- [Neuroscience graduate admission](http://www.neuroscience.umn.edu/admissions/application-and-admissions-information)
 
 [<span style="font-size: 0.75rem;">:arrow_up:</span>](#contents)
 
@@ -616,8 +615,8 @@ A list of schools and researchers in computational neuroscience, theoretical neu
 
 ##### Boston University
 
--   [Computational Neuroscience](https://www.bu.edu/neuro/academics/graduate/curriculum/computational-neuroscience/)
--   [Apply directly through the Graduate Portal for Neuroscience](https://www.bu.edu/neuro/apply/request-for-application-materials/)
+- [Computational Neuroscience](https://www.bu.edu/neuro/academics/graduate/curriculum/computational-neuroscience/)
+- [Apply directly through the Graduate Portal for Neuroscience](https://www.bu.edu/neuro/apply/request-for-application-materials/)
 
 [<span style="font-size: 0.75rem;">:arrow_up:</span>](#contents)
 
@@ -637,8 +636,8 @@ A list of schools and researchers in computational neuroscience, theoretical neu
 
 ##### Brandeis University
 
--   [Ph.D. GREs not required. Letters of recommendation are important.](https://www.brandeis.edu/neuroscience/graduate/apply/index.html)
--   See also: [Sloan-Swartz Center for Theoretical Neuroscience](http://www.bio.brandeis.edu/sloan/index.html)
+- [Ph.D. GREs not required. Letters of recommendation are important.](https://www.brandeis.edu/neuroscience/graduate/apply/index.html)
+- See also: [Sloan-Swartz Center for Theoretical Neuroscience](http://www.bio.brandeis.edu/sloan/index.html)
 
 [<span style="font-size: 0.75rem;">:arrow_up:</span>](#contents)
 
@@ -658,10 +657,10 @@ A list of schools and researchers in computational neuroscience, theoretical neu
 
 ##### Brown University
 
--   [Computational Neuroscience](http://neuroscience.brown.edu/graduate/faculty/computational)
--   [For all departments, apply generally to Brown Graduate school. GRE @ Institution(3094). For Brown University School of Public Health @ Institution(7765). Neuroscience @ Departmnent(0213). Applied Math ?.](https://www.brown.edu/academics/gradschool/apply)
--   [For NIH/Neuroscience also fill out the NIH Partnership Application](https://www2.training.nih.gov/apps/publicForms/gpp/forms/login.aspx)
--   [See Behavioral Neuroscience Requirements](https://www.brown.edu/academics/cognitive-linguistic-psychological-sciences/prospective-graduate-students)
+- [Computational Neuroscience](http://neuroscience.brown.edu/graduate/faculty/computational)
+- [For all departments, apply generally to Brown Graduate school. GRE @ Institution(3094). For Brown University School of Public Health @ Institution(7765). Neuroscience @ Departmnent(0213). Applied Math ?.](https://www.brown.edu/academics/gradschool/apply)
+- [For NIH/Neuroscience also fill out the NIH Partnership Application](https://www2.training.nih.gov/apps/publicForms/gpp/forms/login.aspx)
+- [See Behavioral Neuroscience Requirements](https://www.brown.edu/academics/cognitive-linguistic-psychological-sciences/prospective-graduate-students)
 
 [<span style="font-size: 0.75rem;">:arrow_up:</span>](#contents)
 
@@ -672,7 +671,7 @@ A list of schools and researchers in computational neuroscience, theoretical neu
 | Bienenstock, Lucien Elie | [My research is in theoretical neuroscience, computational vision, and computational linguistics. I study the mechanisms used by brains to create and work with complex, detailed, hierarchical representations of the external world](https://vivo.brown.edu/display/lbienens#Research)                                                                                                                                                                                                                                                                                                                                                                                             |                                                                                                          | +                   |
 | Connors, Barry           | [We discovered that inhibitory neurons in the cortex communicate via electrical synapses, and that electrically coupled networks of neurons can serve as pacemakers for cortical rhythms in the brain. We are also studying how neural activity leads to plasticity of cortical circuits, and how the seizure discharges of epilepsy begin and propagate through the cortex. Our methods include intracellular and extracellular recording and patch clamping, neuroanatomical techniques, isolated slice preparations, optogenetics, and computer modeling.](https://vivo.brown.edu/display/bconnors#Research)                                                                      | [Google](https://scholar.google.com/citations?hl=en&user=whbW9AQAAAAJ&view_op=list_works&sortby=pubdate) | +                   |
 | Cooper, Leon             | [Leon Cooper studies neural networks, including architecture, learning rules, and real world applications; the biological basis of memory and learning; mean field theories; the foundations of quantum theory; and superconductivity.](https://vivo.brown.edu/display/lcooper#Research)                                                                                                                                                                                                                                                                                                                                                                                             |                                                                                                          | +                   |
-| Donoghue, John           | [Donoghue's lab investigates how the brain turns thought into voluntary behaviors. At the core of this problem is understanding higher level neural coding  or how populations of neurons represent complex information. To study neural coding, scientists in the lab are developing novel multielectrode recording arrays suitable for chronic implantation in the cerebral cortex.](https://vivo.brown.edu/display/jdonoghu#Research)                                                                                                                                                                                                                                            |                                                                                                          | =                   |
+| Donoghue, John P.        | [Our laboratory investigates how the brain turns thought into voluntary behaviors and how that knowledge can be used to help persons with paralysis. We study how populations of neurons represent and transform information as a motor plan becomes movement. This approach has required the creation of a novel recording array to study neural ensembles. With the knowledge we have gained about movement representation, we have translated our findings to a clinical application in which humans with paralysis can use their neurons directly to control devices.](https://vivo.brown.edu/display/jdonoghu#Research)                                                         | [Google](https://scholar.google.com/scholar?as_ylo=2018&q=John+Donoghue+brain&hl=en&as_sdt=0,5)          | +                   |
 | Frank, Michael           | [My research combines multiple levels of computational modeling and experimental work to understand the neural mechanisms underlying reinforcement learning, decision making and cognitive control. We develop neural circuit and algorithmic models of systems-level interactions between multiple brain areas (primarily prefrontal cortex and basal ganglia and their modulation by dopamine). We test theoretical predictions of the models using various neuropsychological, pharmacological, genetic, and imaging techniques.](https://vivo.brown.edu/display/mjfrank)                                                                                                         | [Google](https://scholar.google.com/citations?hl=en&user=f-xyFpUAAAAJ&view_op=list_works&sortby=pubdate) | +                   |
 | Geman, Stuart            | [My hypothesis is that the dual principles of re-usability and hierarchy, or what cognitive scientists call compositionality, form the foundation for efficient learning in biological systems; Statistical methods are being devised to support the systematic search for fine-temporal structure in stable multi-unit recordings; These spatio-temporal patterns, with their correlation-induced topologies, would be good candidates for the basic units of cognitive processing...](http://www.dam.brown.edu/people/geman/)                                                                                                                                                      | [Google](https://scholar.google.com/scholar?as_ylo=2018&q=geman+stuart&hl=en&as_sdt=0,5)                 | +                   |
 | Hochberg, Leigh          | [Our Laboratory for Restorative Neurotechnology focuses on developing strategies to restore communication, mobility, and independence for people with paralysis or limb loss. In addition to endeavors related to the pilot clinical trial of the BrainGate2 Neural Interface System, we are interested in understanding human intracortical neurophysiology during the planning and production of voluntary movement, and understanding neuronal ensemble function in a variety of neurologic diseases or injuries. Our lab is also engaged in stroke neurorecovery research.](https://vivo.brown.edu/display/lhochber)                                                             | [Lab](https://vivo.brown.edu/display/lhochber#Publications)                                              | +                   |
@@ -687,9 +686,9 @@ A list of schools and researchers in computational neuroscience, theoretical neu
 
 ##### Carnegie Mellon University and University of Pittsburgh
 
--   [Computational Neuroscience](http://www.cnbc.cmu.edu/training/graduate/computational-neuroscience/)
--   [Ph.D. in Neural Computation. GRE not required but Institution(0274) and Department(0213).](http://compneuro.cmu.edu/)
--   [Applications open during submission times](https://applygrad.cs.cmu.edu/apply/offline.php)
+- [Computational Neuroscience](http://www.cnbc.cmu.edu/training/graduate/computational-neuroscience/)
+- [Ph.D. in Neural Computation. GRE not required but Institution(0274) and Department(0213).](http://compneuro.cmu.edu/)
+- [Applications open during submission times](https://applygrad.cs.cmu.edu/apply/offline.php)
 
 [<span style="font-size: 0.75rem;">:arrow_up:</span>](#contents)
 
@@ -722,7 +721,7 @@ A list of schools and researchers in computational neuroscience, theoretical neu
 
 ##### Columbia University
 
--   [Center for Theoretical Neuroscience.](https://ctn.zuckermaninstitute.columbia.edu/apply)
+- [Center for Theoretical Neuroscience.](https://ctn.zuckermaninstitute.columbia.edu/apply)
 
 [<span style="font-size: 0.75rem;">:arrow_up:</span>](#contents)
 
@@ -741,8 +740,8 @@ A list of schools and researchers in computational neuroscience, theoretical neu
 
 ##### Johns Hopkins University
 
--   [Neuroscience at JHU](http://neuroscience.jhu.edu/research/area/3)
--   [Solomon H. Snyder Department of Neuroscience.](http://neuroscience.jhu.edu/graduate/apply)
+- [Neuroscience at JHU](http://neuroscience.jhu.edu/research/area/3)
+- [Solomon H. Snyder Department of Neuroscience.](http://neuroscience.jhu.edu/graduate/apply)
 
 [<span style="font-size: 0.75rem;">:arrow_up:</span>](#contents)
 
@@ -759,8 +758,8 @@ A list of schools and researchers in computational neuroscience, theoretical neu
 
 ##### Johns Hopkins University - Janelia Joint Graduate Program
 
--   [Janelia Labs](https://www.janelia.org/our-research)
--   [Joint Ph.D. program](https://www.janelia.org/you-janelia/students-postdocs/joint-graduate-program)
+- [Janelia Labs](https://www.janelia.org/our-research)
+- [Joint Ph.D. program](https://www.janelia.org/you-janelia/students-postdocs/joint-graduate-program)
 
 [<span style="font-size: 0.75rem;">:arrow_up:</span>](#contents)
 
@@ -769,12 +768,13 @@ A list of schools and researchers in computational neuroscience, theoretical neu
 | PI(Ph.D.s) | Research Areas | Research | +/=/- computational |
 | ---------- | -------------- | -------- | ------------------- |
 
+
 </div>
 
 ##### Massachussetts Institute of Technology
 
--   [Brain + Cognitive Sciences, GRE Institution(3514),](https://bcs.mit.edu/academic-program/graduate/graduate-admissions)
--   [Center for Brains, Minds and Machines](https://cbmm.mit.edu/about)
+- [Brain + Cognitive Sciences, GRE Institution(3514),](https://bcs.mit.edu/academic-program/graduate/graduate-admissions)
+- [Center for Brains, Minds and Machines](https://cbmm.mit.edu/about)
 
 [<span style="font-size: 0.75rem;">:arrow_up:</span>](#contents)
 
