@@ -289,6 +289,8 @@ In addition to names of PIs, excerpts of their academic biographies, and links t
 
 ##### University of California, Los Angeles
 
+- [Admission to UCLA Interdepartmental Ph.D. program in Neuroscience. GRE general test required to: R4837 Field code: 0213](http://neuroscience.ucla.edu/admissions)
+
 [<span style="font-size: 0.75rem;">:arrow_up:</span>](#contents)
 
 <div style="font-size: 0.5rem;">
