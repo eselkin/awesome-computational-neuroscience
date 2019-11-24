@@ -27,6 +27,7 @@ In addition to names of PIs, excerpts of their academic biographies, and links t
       - [Stanford University](#stanford-university)
       - [University of California, Berkeley](#university-of-california-berkeley)
       - [University of California, Davis](#university-of-california-davis)
+      - [University of California, Irvine](#university-of-california-irvine)
       - [University of California, Los Angeles](#university-of-california-los-angeles)
       - [University of California San Diego](#university-of-california-san-diego)
       - [University of California, Santa Barbara](#university-of-california-santa-barbara)
