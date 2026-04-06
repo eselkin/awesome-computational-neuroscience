@@ -8,6 +8,7 @@ This list of schools and researchers in computational neuroscience, theoretical 
 
 In addition to names of PIs, excerpts of their academic biographies, and links to their publications, many of the researchers are qualified with a small scale "+/=/- computational." The metric is subjective to the editor of that material but it generally breaks down as: (+) refers to a researcher the university identifies as a computational neuroscientist, their bio consistently identifies a significant component of their research is in the field, and they have a significant body of work in the field. (=) refers to the fact that the university identifies them as practicing computational research and they have occasionally produced articles in the field. (-) means that the university identifies them as practicing computational neuroscience, their bio might also mention it, but articles could not be found that represent this material. As with ratings, this metric might change for a researcher over time as they publish more.
 
+- [guardian-agent-prompts](https://github.com/milkomida77/guardian-agent-prompts) - 49 production-tested AI agent system prompts for computational neuroscience workflow orchestration, automated brain modeling pipeline management, and multi-agent coordination. MIT licensed.
 ## Contents
 
 - [Europe](#europe)
